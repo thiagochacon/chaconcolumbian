@@ -5494,74 +5494,74 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 26470	yucuna	PUERTA_DOORWAY	numanáhi	n u m a n a h i	n u m a n a h i	19759
 26863	yukpa	PUERTA_DOORWAY	ji̵tápru	j i̵ t a p r u	j i̵ t a p r u	19760
 27217	yurutí	PUERTA_DOORWAY	sóopee	s oo p ee	s oo p ee - -	19699
-90	kamsá	BANCO_SEAT, STOOL	tɕení̵ɕe	t ɕ e n i̵ ɕ e	t ɕ e n i̵ ɕ e	2156
+90	kamsá	BANCO_SEAT, STOOL	tɕení̵ɕe	t ɕ e n i̵ ɕ e	t ɕ e n i̵ ɕ e	2178
 1332	achagua	BANCO_SEAT, STOOL	jáaʒubaiʃi	j aa ʒ u b a i ʃ i	j aa ʒ u b a i ʃ i	2128
-1719	epena Saija	BANCO_SEAT, STOOL	ãkʰáu	ã kʰ a u	ã kʰ a u	2143
+1719	epena Saija	BANCO_SEAT, STOOL	ãkʰáu	ã kʰ a u	- - ã kʰ a u -	2132
 2117	awa	BANCO_SEAT, STOOL	uzmu	u z m u	u z m u	2129
-2907	bora	BANCO_SEAT, STOOL	íxʲakʷa	i xʲ a kʷ a	i xʲ a kʷ a	2132
-2908	bora	BANCO_SEAT, STOOL	akʰɯ́ɯ́βe	a kʰ ɯɯ β e	a kʰ ɯɯ β e	2193
+2907	bora	BANCO_SEAT, STOOL	íxʲakʷa	i xʲ a kʷ a	i xʲ a kʷ a - -	2132
+2908	bora	BANCO_SEAT, STOOL	akʰɯ́ɯ́βe	a kʰ ɯɯ β e	- - a kʰ ɯɯ β e	2132
 3574	giacone	BANCO_SEAT, STOOL	eédai	ee d a i	ee d a i	2147
-4169	bará	BANCO_SEAT, STOOL	duiro	d u i r o	d u - i r o	2131
-4170	bará	BANCO_SEAT, STOOL	kũbũro	k ũ b ũ r o	k ũ b ũ r o	2192
+4169	bará	BANCO_SEAT, STOOL	duiro	d u i r o	d u - i r o	2173
+4170	bará	BANCO_SEAT, STOOL	kũbũro	k ũ b ũ r o	k ũ b ũ r o	23090
 4581	guahibo	BANCO_SEAT, STOOL	tá:pi	t a: p i	t a: p i	2148
 4582	guahibo	BANCO_SEAT, STOOL	náeepato	n a ee p a t o	n a ee p a t o	2194
 5099	barasana	BANCO_SEAT, STOOL	hujáriaro	h u j a r i a r o	h u j a r i a r o	2130
-5637	secoya	BANCO_SEAT, STOOL	jũʔĩsaiwi̵	j ũ ʔ ĩ s a i w i̵	j ũ ʔ ĩ s a i w i̵	2131
+5637	secoya	BANCO_SEAT, STOOL	jũʔĩsaiwi̵	j ũ ʔ ĩ s a i w i̵	j ũ ʔ ĩ s a i w i̵	2173
 6005	cha'palaachi	BANCO_SEAT, STOOL	ʧunbulʲa	ʧ u n b u lʲ a	ʧ u n b u lʲ a	2136
 6358	guambiano	BANCO_SEAT, STOOL	panku	p a n k u	- - p a n k u -	2135
 6701	cuiba	BANCO_SEAT, STOOL	peekáewa	p ee k a e w a	p ee k a e w a	2139
 7175	carijona	BANCO_SEAT, STOOL	ɯhɯi	ɯ h ɯ i	ɯ h ɯ i	2134
-7541	macuna	BANCO_SEAT, STOOL	ruhiro	r u h i r o	r u h i r o	2131
-7935	chimila	BANCO_SEAT, STOOL	úukaʔ	uu k a ʔ	uu k a ʔ	2137
+7541	macuna	BANCO_SEAT, STOOL	ruhiro	r u h i r o	r u h i r o	2173
+7935	chimila	BANCO_SEAT, STOOL	úukaʔ	uu k a ʔ	- - uu k a ʔ -	2132
 8318	guayabero	BANCO_SEAT, STOOL	ti̵aékax	t i̵ a e k a x	t i̵ a e k a x	2150
-8762	embera chamí	BANCO_SEAT, STOOL	ãkʰáu	ã kʰ a u	ã kʰ a u	2143
-9159	carapana	BANCO_SEAT, STOOL	ruíríkaro	r u i r i k a r o	r u i r i k a r o - -	2131
+8762	embera chamí	BANCO_SEAT, STOOL	ãkʰáu	ã kʰ a u	- - ã kʰ a u -	2132
+9159	carapana	BANCO_SEAT, STOOL	ruíríkaro	r u i r i k a r o	r u i r i k a r o - -	2173
 9536	curripaco	BANCO_SEAT, STOOL	bako	b a k o	- - b a - k o -	2135
-9897	ika	BANCO_SEAT, STOOL	kənkáwi̵	k ə n k a w i̵	k ə n - k a w i̵	2142
-10275	catío	BANCO_SEAT, STOOL	bugé	b u g e	- - b u - g e -	2135
-10677	cubeo	BANCO_SEAT, STOOL	dobáríwe	d o b a r i w e	d o b a r i w e	2173
-11106	muinane	BANCO_SEAT, STOOL	íkaga	i k a g a	i k a g a	2132
-11635	desano	BANCO_SEAT, STOOL	doárijẽ	d o a r i j ẽ	d o a r i j ẽ	2173
+9897	ika	BANCO_SEAT, STOOL	kənkáwi̵	k ə n k a w i̵	k ə n - k a w i̵	2157
+10275	catío	BANCO_SEAT, STOOL	bugé	b u g e	- - b u - g e -	79
+10677	cubeo	BANCO_SEAT, STOOL	dobáríwe	d o b a r i w e	d o b a r i w e	78
+11106	muinane	BANCO_SEAT, STOOL	íkaga	i k a g a	i k a g a - -	2132
+11635	desano	BANCO_SEAT, STOOL	doárijẽ	d o a r i j ẽ	d o a r i j ẽ	78
 12030	inga	BANCO_SEAT, STOOL	tjaridíru	t j a r i d i r u	t j a r i d i r u	2152
-12397	dí̵mi̵na	BANCO_SEAT, STOOL	ki̵nogwa	k i̵ n o g w a	k i̵ n o g - w a	2142
-12778	embera Darién	BANCO_SEAT, STOOL	ãpugé	ã p u g e	ã p u - g e -	2135
+12397	dí̵mi̵na	BANCO_SEAT, STOOL	ki̵nogwa	k i̵ n o g w a	k i̵ n o g - w a	2157
+12778	embera Darién	BANCO_SEAT, STOOL	ãpugé	ã p u g e	ã p u - g e -	79
 13121	nukak	BANCO_SEAT, STOOL	wi̵i̵²jah⁴at¹	w i̵i̵ j a h a t	w i̵i̵ j a h a t	2162
-13448	jupda	BANCO_SEAT, STOOL	kəd	k ə d	k ə d	2155
+13448	jupda	BANCO_SEAT, STOOL	kəd	k ə d	k ə d	2157
 13762	jitnu	BANCO_SEAT, STOOL	hálne	h a l n e	h a l n e	2153
-14129	koreguaje	BANCO_SEAT, STOOL	ɲuʔisaiβi̵	ɲ u ʔ i s a i β i̵	ɲ u ʔ i s a i β i̵	2183
+14129	koreguaje	BANCO_SEAT, STOOL	ɲuʔisaiβi̵	ɲ u ʔ i s a i β i̵	ɲ u ʔ i s a i β i̵	2173
 14550	páez	BANCO_SEAT, STOOL	pagu	p a g u	- - p a - g u -	2135
-14973	kakua	BANCO_SEAT, STOOL	ʧi̵d² at⁴ paʔa²	ʧ i̵ d	ʧ i̵ d	2155
+14973	kakua	BANCO_SEAT, STOOL	ʧi̵d² at⁴ paʔa²	ʧ i̵ d	ʧ i̵ d	2157
 14974	kakua	BANCO_SEAT, STOOL	lãtʧi²	l ã t ʧ i	l ã t ʧ i	2195
-15408	witoto mi̵ni̵ca	BANCO_SEAT, STOOL	ráɯirabɯkɯ	r a ɯ i r a b ɯ k ɯ	r a ɯ i r a b ɯ k ɯ	2185
+15408	witoto mi̵ni̵ca	BANCO_SEAT, STOOL	ráɯirabɯkɯ	r a ɯ i r a b ɯ k ɯ	r a ɯ i r a b ɯ k ɯ	2133
 15857	kogui	BANCO_SEAT, STOOL	kəldoxá	k ə l d o x a	k ə l d o x a	2157
-16248	witoto ni̵pode	BANCO_SEAT, STOOL	ráɯirabɯkɯ	r a ɯ i r a b ɯ k ɯ	r a ɯ i r a b ɯ k ɯ	2185
-16722	miraña	BANCO_SEAT, STOOL	íhakʷa	i h a kʷ a	i h a kʷ a	2132
-17148	piratapuyo	BANCO_SEAT, STOOL	duhiri saʔrĩdõ	d u h i r i	d u h i r i	2131
+16248	witoto ni̵pode	BANCO_SEAT, STOOL	ráɯirabɯkɯ	r a ɯ i r a b ɯ k ɯ	r a ɯ i r a b ɯ k ɯ	2133
+16722	miraña	BANCO_SEAT, STOOL	íhakʷa	i h a kʷ a	i h a kʷ a - -	2132
+17148	piratapuyo	BANCO_SEAT, STOOL	duhiri saʔrĩdõ	d u h i r i	d u h i r i	2173
 17544	playero	BANCO_SEAT, STOOL	peekéwa	p ee k e w a	p ee k - e w a	2139
 17962	witoto murui	BANCO_SEAT, STOOL	raɯrako	r a ɯ r a k o	r a ɯ r a k o - - - -	2133
 18402	ocaina	BANCO_SEAT, STOOL	bijɲirááβoho	b i j ɲ i r aa β o h o	b i j ɲ i r aa β o h o	2163
 18403	ocaina	BANCO_SEAT, STOOL	biiɲirááko	b ii ɲ i r aa k o	b ii ɲ i r aa k o	2196
-18863	orejón	BANCO_SEAT, STOOL	jũĩ seu	j ũ ĩ #s e u	j ũ ĩ #s e u	2183
+18863	orejón	BANCO_SEAT, STOOL	jũĩ seu	j ũ ĩ #s e u	j ũ ĩ #s e u	2173
 19169	piapoco	BANCO_SEAT, STOOL	jàalubáisi	j aa l u b a i s i	j aa l u b a i s i	2128
 19603	puinave	BANCO_SEAT, STOOL	buɲku	b u ɲ k u	- - b u ɲ k u -	26605
-19952	resígaro	BANCO_SEAT, STOOL	iʔtsʰoótsigú	i ʔ tsʰ oo ts i g u	i ʔ tsʰ oo ts i g u	2170
+19952	resígaro	BANCO_SEAT, STOOL	iʔtsʰoótsigú	i ʔ tsʰ oo ts i g u	i ʔ tsʰ oo ts i g u	2178
 20304	sáliba	BANCO_SEAT, STOOL	hĩgoxòode	h ĩ g o x oo d e	h ĩ g o x oo d e	2174
-20665	siona	BANCO_SEAT, STOOL	jũti seiwi̵	j ũ t i #s e i w i̵	j ũ t i #s e i w i̵	2183
-21024	siriano	BANCO_SEAT, STOOL	doáripẽrõ	d o a r i p ẽ r õ	d o a r i p ẽ r õ	2173
-21408	tatuyo	BANCO_SEAT, STOOL	ruíríkapãĩ	r u i r i k a p ã ĩ	r u i r i k a p ã ĩ	2131
-21783	tucano	BANCO_SEAT, STOOL	duhiró	d u h i r o	d u h i r o	2183
-22182	embera Tadó	BANCO_SEAT, STOOL	ãkʰáu	ã kʰ a u	ã kʰ a u	2143
-22566	tanimuca	BANCO_SEAT, STOOL	ruparũkia	r u p a r ũ k i a	r u p a r ũ k i a	2175
+20665	siona	BANCO_SEAT, STOOL	jũti seiwi̵	j ũ t i #s e i w i̵	j ũ t i #s e i w i̵	2173
+21024	siriano	BANCO_SEAT, STOOL	doáripẽrõ	d o a r i p ẽ r õ	d o a r i p ẽ r õ	78
+21408	tatuyo	BANCO_SEAT, STOOL	ruíríkapãĩ	r u i r i k a p ã ĩ	r u i r i k a p ã ĩ	2173
+21783	tucano	BANCO_SEAT, STOOL	duhiró	d u h i r o	d u h i r o	2173
+22182	embera Tadó	BANCO_SEAT, STOOL	ãkʰáu	ã kʰ a u	- - ã kʰ a u -	2132
+22566	tanimuca	BANCO_SEAT, STOOL	ruparũkia	r u p a r ũ k i a	r u p a r ũ k i a	78
 22958	tunebo central	BANCO_SEAT, STOOL	bánkoa	b a n k o a	- - b a n k o a	2135
 23481	tsafiqui pila	BANCO_SEAT, STOOL	tsudinun	ts u d i n u n	ts u d i n u n	2178
 23839	totoró	BANCO_SEAT, STOOL	paŋko	p a ŋ k o	- - p a ŋ k o -	2135
-24145	tuyuca	BANCO_SEAT, STOOL	duiró	d u i r o	d u - i r o	2131
-24819	waimaja	BANCO_SEAT, STOOL	juwírikáro	j u w i r i k a r o	j u w i r i k a r o	2131
-24820	waimaja	BANCO_SEAT, STOOL	juírikáro	j u i r i k a r o	j u - i r i k a r o	2131
-24821	waimaja	BANCO_SEAT, STOOL	kṹbṹró	k ũ b ũ r o	k ũ b ũ r o	2192
-25077	wounaan	BANCO_SEAT, STOOL	kʰu huuphem	kʰ u	kʰ u	2188
+24145	tuyuca	BANCO_SEAT, STOOL	duiró	d u i r o	d u - i r o	2173
+24819	waimaja	BANCO_SEAT, STOOL	juwírikáro	j u w i r i k a r o	j u w i r i k a r o	2173
+24820	waimaja	BANCO_SEAT, STOOL	juírikáro	j u i r i k a r o	j u - i r i k a r o	2173
+24821	waimaja	BANCO_SEAT, STOOL	kṹbṹró	k ũ b ũ r o	k ũ b ũ r o	23090
+25077	wounaan	BANCO_SEAT, STOOL	kʰu huuphem	kʰ u	kʰ u - - - -	23090
 25078	wounaan	BANCO_SEAT, STOOL	pʊɾkʰau	p ʊ ɾ kʰ a u	p ʊ ɾ kʰ a u	2199
-25522	wanano	BANCO_SEAT, STOOL	duhiripaʔta	d u h i r i p a ʔ t a	d u h i r i p a ʔ t a	2183
+25522	wanano	BANCO_SEAT, STOOL	duhiripaʔta	d u h i r i p a ʔ t a	d u h i r i p a ʔ t a	2173
 25933	wayuu	BANCO_SEAT, STOOL	wánkeeta	w a n k ee t a	w a n k ee t a	2184
 25934	wayuu	BANCO_SEAT, STOOL	tulú	t u l u	t u l u	2198
 26471	yucuna	BANCO_SEAT, STOOL	ɲákaʔahori	ɲ a k a ʔ a h o r i	ɲ a k a ʔ a h o r i	2189
@@ -5747,32 +5747,32 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 2120	awa	OLLA_COOKING POT	paid	p a i d	p a i d	16793
 2121	awa	OLLA_COOKING POT	pirul	p i r u l	p i r u l	16858
 2917	bora	OLLA_COOKING POT	ʧíjiʔʧo	ʧ i j i ʔ ʧ o	ʧ i j i ʔ - ʧ o	16797
-3576	giacone	OLLA_COOKING POT	surápi	s u r a p i	- - - - s u r a p i - - -	16794
+3576	giacone	OLLA_COOKING POT	surápi	s u r a p i	- - - - s u r a p i - - -	3346
 3577	giacone	OLLA_COOKING POT	tsiíua	ts ii u a	- - ts ii u a	16799
 3578	giacone	OLLA_COOKING POT	kutsíua	k u ts i u a	k u ts i u a	16799
 3880	barí	OLLA_COOKING POT	dahŋkuɾə	d a h ŋ k u ɾ ə	d a h ŋ k u ɾ ə	16796
 4173	bará	OLLA_COOKING POT	kõbẽri̵	k õ b ẽ r i̵	k õ b ẽ r i̵	16795
-4174	bará	OLLA_COOKING POT	hoti̵	h o t i̵	- - - - h o t i̵ - - - - -	16794
+4174	bará	OLLA_COOKING POT	hoti̵	h o t i̵	- - - - h o t i̵ - - - - -	3346
 4585	guahibo	OLLA_COOKING POT	wáxi	w a x i	w a x i	16804
 4586	guahibo	OLLA_COOKING POT	kanálito	k a n a l i t o	k a n a l i t o	16864
-5102	barasana	OLLA_COOKING POT	sotí̵	s o t i̵	- - - - s o t i̵ - - - - -	16794
-5641	secoya	OLLA_COOKING POT	sotodo	s o t o d o	- - - - s o t o d o - - -	16794
+5102	barasana	OLLA_COOKING POT	sotí̵	s o t i̵	- - - - s o t i̵ - - - - -	3346
+5641	secoya	OLLA_COOKING POT	sotodo	s o t o d o	- - - - s o t o d o - - -	3346
 6009	cha'palaachi	OLLA_COOKING POT	pijama	p i j a m a	p i j a m a	16801
 6360	guambiano	OLLA_COOKING POT	ki̵tsi̵	k i̵ ts i̵	k i̵ ts i̵ - - -	16799
 6704	cuiba	OLLA_COOKING POT	waxi	w a x i	w a x i	16804
 6705	cuiba	OLLA_COOKING POT	koróto	k o r o t o	k o r o t o	16860
 7178	carijona	OLLA_COOKING POT	kadero	k a d e r o	k a d e r o -	26360
-7545	macuna	OLLA_COOKING POT	soti̵	s o t i̵	- - - - s o t i̵ - - - - -	16794
+7545	macuna	OLLA_COOKING POT	soti̵	s o t i̵	- - - - s o t i̵ - - - - -	3346
 7938	chimila	OLLA_COOKING POT	ⁿdeʔɾúmbɾiʔ	ⁿd e ʔ ɾ u m b ɾ i ʔ	ⁿd e ʔ ɾ u m b ɾ i ʔ	16802
 8321	guayabero	OLLA_COOKING POT	mármat	m a r m a t	m a r m a t	16815
 8766	embera chamí	OLLA_COOKING POT	kʰúɾu	kʰ u ɾ u	- - kʰ u ɾ u	16800
-9162	carapana	OLLA_COOKING POT	hotí̵	h o t i̵	- - - - h o t i̵ - - - - -	16794
+9162	carapana	OLLA_COOKING POT	hotí̵	h o t i̵	- - - - h o t i̵ - - - - -	3346
 9540	curripaco	OLLA_COOKING POT	palangana	p a l a n g a n a	p a l a n g a n a	26534
-9900	ika	OLLA_COOKING POT	póti	p o t i	p o t i	16816
+9900	ika	OLLA_COOKING POT	póti	p o t i	p o t i	3345
 10279	catío	OLLA_COOKING POT	kʰuguɾú	kʰ u g u ɾ u	kʰ u g u ɾ u	16800
-10680	cubeo	OLLA_COOKING POT	kõã́ĩjĩ̵	k õ ã ĩ j ĩ̵	k õ ã ĩ j ĩ̵	16803
+10680	cubeo	OLLA_COOKING POT	kõã́ĩjĩ̵	k õ ã ĩ j ĩ̵	k õ ã ĩ j ĩ̵	3356
 11111	muinane	OLLA_COOKING POT	gíríʔiʤu	g i r i ʔ i ʤ u	g i r i ʔ i ʤ u	16797
-11638	desano	OLLA_COOKING POT	mátásoro	m a t a s o r o	m a t a s o r o - - - - -	16794
+11638	desano	OLLA_COOKING POT	mátásoro	m a t a s o r o	m a t a s o r o - - - - -	3346
 12034	inga	OLLA_COOKING POT	mánga	m a n g a	m a n g a	16817
 12402	dí̵mi̵na	OLLA_COOKING POT	buku	b u k u	b u k u	16807
 12403	dí̵mi̵na	OLLA_COOKING POT	ujeta	u j e t a	- u j e t a	16850
@@ -5782,44 +5782,44 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 13451	jupda	OLLA_COOKING POT	bãjʔ bɔk	b ã j ʔ	b ã j ʔ	16827
 13452	jupda	OLLA_COOKING POT	bõb bɔk	b õ b	b õ b -	16827
 13767	jitnu	OLLA_COOKING POT	pelór	p e l o r	p e l o r -	16818
-14132	koreguaje	OLLA_COOKING POT	tʰotʰoro	tʰ o tʰ o r o	- - - - tʰ o tʰ o r o - - -	16794
+14132	koreguaje	OLLA_COOKING POT	tʰotʰoro	tʰ o tʰ o r o	- - - - tʰ o tʰ o r o - - -	3346
 14554	páez	OLLA_COOKING POT	mitʲh	m i tʲh	m i tʲh	16834
 14977	kakua	OLLA_COOKING POT	pi̵b³at⁴ daʔ⁴	p i̵ b a t	p i̵ b a t	16820
-14978	kakua	OLLA_COOKING POT	ʔĩtaʔ² daʔ⁴	ʔ ĩ t a ʔ	ʔ ĩ t a ʔ	16866
+14978	kakua	OLLA_COOKING POT	ʔĩtaʔ² daʔ⁴	ʔ ĩ t a ʔ	ʔ ĩ t a ʔ	16844
 14979	kakua	OLLA_COOKING POT	wãb² daʔ⁴	w ã b	w ã b	16827
-15414	witoto mi̵ni̵ca	OLLA_COOKING POT	nógo	n o g o	n o g o	16851
-15860	kogui	OLLA_COOKING POT	pútti	p u tt i	p u tt i	16816
-16252	witoto ni̵pode	OLLA_COOKING POT	nógo	n o g o	n o g o	16851
+15414	witoto mi̵ni̵ca	OLLA_COOKING POT	nógo	n o g o	n o g o - -	16800
+15860	kogui	OLLA_COOKING POT	pútti	p u tt i	p u tt i	3345
+16252	witoto ni̵pode	OLLA_COOKING POT	nógo	n o g o	n o g o - -	16800
 16726	miraña	OLLA_COOKING POT	ʧíriʔʧo	ʧ i r i ʔ ʧ o	ʧ i r i ʔ - ʧ o	16797
-17151	piratapuyo	OLLA_COOKING POT	sutu	s u t u	- - - - s u t u - - - - -	16794
+17151	piratapuyo	OLLA_COOKING POT	sutu	s u t u	- - - - s u t u - - - - -	3346
 17549	playero	OLLA_COOKING POT	penámtsaséʧiwa	p e n a m ts a s e ʧ i w a	p e n a m ts a s e ʧ i w a	16832
 17550	playero	OLLA_COOKING POT	pelora	p e l o r a	p e l o r a	16818
-17967	witoto murui	OLLA_COOKING POT	nogo	n o g o	n o g o	16851
-18407	ocaina	OLLA_COOKING POT	ɲoxootʲo	ɲ o x oo tʲ o	- - ɲ o x oo tʲ o - - - - -	16794
-18865	orejón	OLLA_COOKING POT	tótò	t o t o	- - - - t o t o - - - - -	16794
+17967	witoto murui	OLLA_COOKING POT	nogo	n o g o	n o g o - -	16800
+18407	ocaina	OLLA_COOKING POT	ɲoxootʲo	ɲ o x oo tʲ o	ɲ o x oo tʲ o	16800
+18865	orejón	OLLA_COOKING POT	tótò	t o t o	- - - - t o t o - - - - -	3346
 19172	piapoco	OLLA_COOKING POT	alamàa	a l a m aa	a l a m aa	16830
 19606	puinave	OLLA_COOKING POT	wãm	w ã m	w ã m	16827
-19956	resígaro	OLLA_COOKING POT	βatsʰoótsíʔoohú	β a tsʰ oo ts i ʔ oo h u	- - β a tsʰ oo ts i ʔ oo h u -	16794
+19956	resígaro	OLLA_COOKING POT	βatsʰoótsíʔoohú	β a tsʰ oo ts i ʔ oo h u	- - β a tsʰ oo ts i ʔ oo h u -	3346
 20308	sáliba	OLLA_COOKING POT	hõhĩʔmo	h õ h ĩ ʔ m o	h õ h ĩ ʔ m o	16839
-20667	siona	OLLA_COOKING POT	sotodo	s o t o d o	- - - - s o t o d o - - -	16794
-21028	siriano	OLLA_COOKING POT	kĩ́pũsoro	k ĩ p ũ s o r o	k ĩ p ũ s o r o - - - - -	16794
-21411	tatuyo	OLLA_COOKING POT	hotí̵	h o t i̵	- - - - h o t i̵ - - - - -	16794
-21786	tucano	OLLA_COOKING POT	si̵tí̵wi̵	s i̵ t i̵ w i̵	- - - - s i̵ t i̵ w i̵ - - -	16794
+20667	siona	OLLA_COOKING POT	sotodo	s o t o d o	- - - - s o t o d o - - -	3346
+21028	siriano	OLLA_COOKING POT	kĩ́pũsoro	k ĩ p ũ s o r o	k ĩ p ũ s o r o - - - - -	3346
+21411	tatuyo	OLLA_COOKING POT	hotí̵	h o t i̵	- - - - h o t i̵ - - - - -	3346
+21786	tucano	OLLA_COOKING POT	si̵tí̵wi̵	s i̵ t i̵ w i̵	- - - - s i̵ t i̵ w i̵ - - -	3346
 22188	embera Tadó	OLLA_COOKING POT	kʰúɾu	kʰ u ɾ u	- - kʰ u ɾ u	16800
-22569	tanimuca	OLLA_COOKING POT	hotoa	h o t o a	- - - - h o t o - a - - -	16794
+22569	tanimuca	OLLA_COOKING POT	hotoa	h o t o a	- - - - h o t o - a - - -	3346
 22961	tunebo central	OLLA_COOKING POT	rùka	r u k a	r u k a	16846
-23277	tariano	OLLA_COOKING POT	suruapíh	s u r u a p i h	- - - - s u r u - a p i h	16794
+23277	tariano	OLLA_COOKING POT	suruapíh	s u r u a p i h	- - - - s u r u - a p i h	3346
 23485	tsafiqui pila	OLLA_COOKING POT	nida	n i d a	n i d a	16844
 23843	totoró	OLLA_COOKING POT	ki̵s	k i̵ s	k i̵ s	16843
-24148	tuyuca	OLLA_COOKING POT	sotí̵	s o t i̵	- - - - s o t i̵ - - - - -	16794
+24148	tuyuca	OLLA_COOKING POT	sotí̵	s o t i̵	- - - - s o t i̵ - - - - -	3346
 24559	waimaja	OLLA_COOKING POT	kṍbẽ́ri̵	k õ b ẽ r i̵	k õ b ẽ r i̵	16795
-24560	waimaja	OLLA_COOKING POT	hotí̵	h o t i̵	- - - - h o t i̵ - - - - -	16794
+24560	waimaja	OLLA_COOKING POT	hotí̵	h o t i̵	- - - - h o t i̵ - - - - -	3346
 25082	wounaan	OLLA_COOKING POT	dup	d u p	d u p	16854
-25525	wanano	OLLA_COOKING POT	situ	s i t u	- - - - s i t u - - - - -	16794
+25525	wanano	OLLA_COOKING POT	situ	s i t u	- - - - s i t u - - - - -	3346
 25937	wayuu	OLLA_COOKING POT	wajéeta	w a j ee t a	w a j ee t a	16850
 26477	yucuna	OLLA_COOKING POT	peroʔoxló	p e r o ʔ o x l o	p e r o ʔ o x l o	26534
 26868	yukpa	OLLA_COOKING POT	páʔʃi	p a ʔ ʃ i	p a ʔ ʃ i	16856
-27221	yurutí	OLLA_COOKING POT	sóti̵	s o t i̵	- - - - s o t i̵ - - - - -	16794
+27221	yurutí	OLLA_COOKING POT	sóti̵	s o t i̵	- - - - s o t i̵ - - - - -	3346
 95	kamsá	ROZA, SEMENTERA_CULTIVATED CLEARING	xaxáɲe	x a x a ɲ e	x a x a ɲ e	26361
 1337	achagua	ROZA, SEMENTERA_CULTIVATED CLEARING	ʃínaaʃi	ʃ i n aa ʃ i	ʃ i n aa ʃ i	21206
 1723	epena Saija	ROZA, SEMENTERA_CULTIVATED CLEARING	pʰáta kʰã́i	pʰ a t a	pʰ a t a	21220
@@ -6310,42 +6310,42 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 26484	yucuna	CUCHILLO_KNIFE	irahú	i r a h u	- - i - r a h u - - - - - - - -	6698
 26873	yukpa	CUCHILLO_KNIFE	panáko	p a n a k o	p a n a - k o	6677
 27228	yurutí	CUCHILLO_KNIFE	widériapĩgã	w i d e r i a p ĩ g ã	- w i - d e - - r i - a p ĩ g ã	6698
-102	kamsá	CANOA_CANOE	kanoúɕe	k a n o u ɕ e	k a n o u ɕ e	20990
+102	kamsá	CANOA_CANOE	kanoúɕe	k a n o u ɕ e	k a n o u ɕ e	3735
 1344	achagua	CANOA_CANOE	húnaa	h u n aa	h u n - - aa	20981
 1345	achagua	CANOA_CANOE	íida	ii d a	- ii d a	20981
 1731	epena Saija	CANOA_CANOE	hápa	h a p a	h a p a - -	3696
-2129	awa	CANOA_CANOE	kanua	k a n u a	k a n u - - a	20990
+2129	awa	CANOA_CANOE	kanua	k a n u a	k a n u - - a	3735
 2513	epena basurudó	CANOA_CANOE	hapá	h a p a	h a p a - -	3696
 2928	bora	CANOA_CANOE	mi̵í̵ne	m i̵i̵ n e	m i̵i̵ n e - -	3692
 3884	barí	CANOA_CANOE	dabəkajnə	d a b ə k a j n ə	d a b ə k a j n ə	3691
-4182	bará	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã	3689
+4182	bará	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã -	23090
 4594	guahibo	CANOA_CANOE	hé:ra	h e: r a	h e: r a	20981
-5110	barasana	CANOA_CANOE	kũbũa	k ũ b ũ a	k ũ b ũ a	3689
+5110	barasana	CANOA_CANOE	kũbũa	k ũ b ũ a	k ũ b ũ a -	23090
 5482	cabiyarí	CANOA_CANOE	ʔiita	ʔ ii t a	ʔ ii t a	20981
 5650	secoya	CANOA_CANOE	jowi̵	j o w i̵	j o w i̵	20967
 6017	cha'palaachi	CANOA_CANOE	kule	k u l e	- - - - - k u - l e	26858
 6716	cuiba	CANOA_CANOE	héra	h e r a	h e r a	20981
-7184	carijona	CANOA_CANOE	kanawa	k a n a w a	k a n a - w a	20990
-7553	macuna	CANOA_CANOE	kũbã	k ũ b ã	k ũ b ã -	3689
-8331	guayabero	CANOA_CANOE	kanáw	k a n a w	k a n a - w -	20990
+7184	carijona	CANOA_CANOE	kanawa	k a n a w a	k a n a - w a	3735
+7553	macuna	CANOA_CANOE	kũbã	k ũ b ã	k ũ b ã - -	23090
+8331	guayabero	CANOA_CANOE	kanáw	k a n a w	k a n a - w -	3735
 8773	embera chamí	CANOA_CANOE	hã́ba	h ã b a	h ã b a - -	3696
-9170	carapana	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã	3689
+9170	carapana	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã -	23090
 9548	curripaco	CANOA_CANOE	iita	ii t a	- ii t a	20981
-9906	ika	CANOA_CANOE	kənóᵘwa	k ə n oᵘ w a	k ə n oᵘ - w a	20990
+9906	ika	CANOA_CANOE	kənóᵘwa	k ə n oᵘ w a	k ə n oᵘ - w a	3735
 10287	catío	CANOA_CANOE	hã́ba	h ã b a	h ã b a - -	3696
 10689	cubeo	CANOA_CANOE	hiájokũ	h i a j o k ũ	h i a j o k ũ	3698
 11121	muinane	CANOA_CANOE	méenega	m ee n e g a	m ee n e g a	3692
 11648	desano	CANOA_CANOE	gasirú	g a s i r u	g a s i r u	3701
-12044	inga	CANOA_CANOE	kanúa	k a n u a	k a n u - - a	20990
-12045	inga	CANOA_CANOE	kánwa	k a n w a	k a n - - w a	20990
+12044	inga	CANOA_CANOE	kanúa	k a n u a	k a n u - - a	3735
+12045	inga	CANOA_CANOE	kánwa	k a n w a	k a n - - w a	3735
 12790	embera Darién	CANOA_CANOE	hãpá	h ã p a	h ã p a - -	3696
 13131	nukak	CANOA_CANOE	ti̵naʔ⁴aa²	t i̵ n a ʔ aa	- - - - - t i̵ - n a ʔ aa - - -	20975
 13461	jupda	CANOA_CANOE	hɔh teg	h ɔ h	h ɔ h - - -	3696
-13948	jitnu	CANOA_CANOE	kaná	k a n a	k a n a - - -	20990
+13948	jitnu	CANOA_CANOE	kaná	k a n a	k a n a - - -	3735
 14141	koreguaje	CANOA_CANOE	ʤooβi̵	ʤ oo β i̵	ʤ oo β i̵	20967
 14988	kakua	CANOA_CANOE	hãh³ ʧo²	h ã h	h ã h - - -	3696
 15423	witoto mi̵ni̵ca	CANOA_CANOE	nokáe	n o k a e	n o k a e	3742
-15868	kogui	CANOA_CANOE	kanúwa	k a n u w a	k a n u - w a	20990
+15868	kogui	CANOA_CANOE	kanúwa	k a n u w a	k a n u - w a	3735
 16261	witoto ni̵pode	CANOA_CANOE	nókae	n o k a e	n o k a e	3742
 16734	miraña	CANOA_CANOE	mi̵í̵ne	m i̵i̵ n e	m i̵i̵ n e - -	3692
 17159	piratapuyo	CANOA_CANOE	juki̵sa	j u k i̵ s a	j u k i̵ s a - -	3724
@@ -6358,23 +6358,23 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 19966	resígaro	CANOA_CANOE	hiítú	h ii t u	h ii t u	20981
 20316	sáliba	CANOA_CANOE	weʧuhu	w e ʧ u h u	w e ʧ u h u	3731
 20677	siona	CANOA_CANOE	jogu	j o g u	j o g u - - - -	20967
-21036	siriano	CANOA_CANOE	kũbã́	k ũ b ã	k ũ b ã -	3689
-21419	tatuyo	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã	3689
+21036	siriano	CANOA_CANOE	kũbã́	k ũ b ã	k ũ b ã - -	23090
+21419	tatuyo	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã -	23090
 21794	tucano	CANOA_CANOE	jukí̵si̵	j u k i̵ s i̵	j u k i̵ s i̵ - -	3724
 22197	embera Tadó	CANOA_CANOE	habá	h a b a	h a b a - -	3696
-22577	tanimuca	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã	3689
+22577	tanimuca	CANOA_CANOE	kũbũã	k ũ b ũ ã	k ũ b ũ ã -	23090
 23354	tariano	CANOA_CANOE	ʔita	ʔ i t a	ʔ i t a	20981
-23493	tsafiqui pila	CANOA_CANOE	kanoa	k a n o a	k a n o - - a	20990
+23493	tsafiqui pila	CANOA_CANOE	kanoa	k a n o a	k a n o - - a	3735
 23851	totoró	CANOA_CANOE	tsik kanoa	ts i k	ts i k	3735
 24156	tuyuca	CANOA_CANOE	jukusóro	j u k u s o r o	j u k u s o r o	3724
-24571	waimaja	CANOA_CANOE	kṹbṹã́	k ũ b ũ ã	k ũ b ũ ã	3689
+24571	waimaja	CANOA_CANOE	kṹbṹã́	k ũ b ũ ã	k ũ b ũ ã -	23090
 25091	wounaan	CANOA_CANOE	hap	h a p	h a p - - -	3696
 25092	wounaan	CANOA_CANOE	wakapá	w a k a p a	w a k a p a	3751
 25533	wanano	CANOA_CANOE	bi̵soka	b i̵ s o k a	b i̵ s o k a	3740
-25949	wayuu	CANOA_CANOE	anúwa	a n u w a	- a n u w a	20990
+25949	wayuu	CANOA_CANOE	anúwa	a n u w a	- a n u w a	3735
 26485	yucuna	CANOA_CANOE	híita	h ii t a	h ii t a	20981
-26874	yukpa	CANOA_CANOE	kanówa	k a n o w a	k a n o - w a	20990
-27229	yurutí	CANOA_CANOE	kṹũbũã	k ũũ b ũ ã	k ũũ b ũ ã	3689
+26874	yukpa	CANOA_CANOE	kanówa	k a n o w a	k a n o - w a	3735
+27229	yurutí	CANOA_CANOE	kṹũbũã	k ũũ b ũ ã	k ũũ b ũ ã -	23090
 103	kamsá	REMO_PADDLE	ʒembé	ʒ e m b e	- - - - - ʒ e - m - - b e - -	20975
 1346	achagua	REMO_PADDLE	téena	t ee n a	- - - - - t ee - n a - - - - -	20975
 1732	epena Saija	REMO_PADDLE	tói	t o i	t o i	20967
@@ -6393,7 +6393,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 6717	cuiba	REMO_PADDLE	katéna	k a t e n a	- - - k a t e - n a - - - - -	20975
 7185	carijona	REMO_PADDLE	hura	h u r a	h u r a	20981
 7554	macuna	REMO_PADDLE	wearãhãĩ	w e a r ã h ã ĩ	w e - - a r ã h ã ĩ - - -	20942
-8332	guayabero	REMO_PADDLE	kanáeɸ	k a n a e ɸ	k a n a e ɸ	20990
+8332	guayabero	REMO_PADDLE	kanáeɸ	k a n a e ɸ	k a n a e ɸ	3735
 8774	embera chamí	REMO_PADDLE	dowi	d o w i	d o w i - -	20967
 8775	embera chamí	REMO_PADDLE	dowibaɾi	d o w i b a ɾ i	d o w i b a ɾ i	20967
 9171	carapana	REMO_PADDLE	wáarikapãĩ	w aa r i k a p ã ĩ	w aa - - - r i k a p ã ĩ -	20942
@@ -6411,7 +6411,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 14989	kakua	REMO_PADDLE	bẽd³at⁴ dã³	b ẽ d a t	- - - b ẽ d a - t - - - - - -	20975
 15424	witoto mi̵ni̵ca	REMO_PADDLE	hɯ́aɯbe	h ɯ a ɯ b e	h ɯ a - ɯ b e	20981
 15869	kogui	REMO_PADDLE	haktú	h a k t u	h a - - - k - - t u	26858
-15870	kogui	REMO_PADDLE	kənkuí	k ə n k u i	k ə n k u i	20990
+15870	kogui	REMO_PADDLE	kənkuí	k ə n k u i	k ə n k u i	3735
 16262	witoto ni̵pode	REMO_PADDLE	hɯ́aɯbe	h ɯ a ɯ b e	h ɯ a - ɯ b e	20981
 16735	miraña	REMO_PADDLE	poʔtókʷa	p o ʔ t o kʷ a	p o ʔ - t o kʷ a	20968
 17160	piratapuyo	REMO_PADDLE	wehero	w e h e r o	w e h - e - - r o - - - -	20942
@@ -7967,7 +7967,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 6046	cha'palaachi	SERPIENTE, CULEBRA_SNAKE	pĩni	p ĩ n i	p ĩ n i	13913
 6379	guambiano	SERPIENTE, CULEBRA_SNAKE	ul	u l	u l	22240
 6755	cuiba	SERPIENTE, CULEBRA_SNAKE	hómo	h o m o	- - h o m o - - - - -	13886
-7214	carijona	SERPIENTE, CULEBRA_SNAKE	akai	a k a i	a - k a i	13936
+7214	carijona	SERPIENTE, CULEBRA_SNAKE	akai	a k a i	- a k a i - - - -	13936
 7585	macuna	SERPIENTE, CULEBRA_SNAKE	ãjã	ã j ã	ã j ã - - - - - - -	13918
 7973	chimila	SERPIENTE, CULEBRA_SNAKE	mánnuʔ	m a nn u ʔ	- - m a nn u ʔ	26898
 8371	guayabero	SERPIENTE, CULEBRA_SNAKE	hom	h o m	- - h o m - - - - - -	13886
@@ -8027,7 +8027,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 1766	epena Saija	MAPANA_ANACONDA, WATER BOA	hépʰã	h e pʰ ã	h e pʰ ã	13883
 2544	epena basurudó	MAPANA_ANACONDA, WATER BOA	hẽpʰá	h ẽ pʰ a	h ẽ pʰ a	13883
 2979	bora	MAPANA_ANACONDA, WATER BOA	póóaá	p oo aa	p oo aa	13880
-2980	bora	MAPANA_ANACONDA, WATER BOA	ííkʷakʰʲo	ii kʷ a kʰʲ o	- ii kʷ a kʰʲ o	13898
+2980	bora	MAPANA_ANACONDA, WATER BOA	ííkʷakʰʲo	ii kʷ a kʰʲ o	- ii kʷ a - kʰʲ o - -	13936
 3613	giacone	MAPANA_ANACONDA, WATER BOA	maauáli	m aa u a l i	m aa u a l i	13910
 3614	giacone	MAPANA_ANACONDA, WATER BOA	mauáli	m a u a l i	m a u a l i	13910
 4217	bará	MAPANA_ANACONDA, WATER BOA	pĩdõ	p ĩ d õ	p ĩ d õ - - -	13913
@@ -8036,8 +8036,8 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 5685	secoya	MAPANA_ANACONDA, WATER BOA	mãjõmĩ	m ã j õ m ĩ	m ã j õ m ĩ	26636
 6047	cha'palaachi	MAPANA_ANACONDA, WATER BOA	vesu	v e s u	v e s u	13884
 6756	cuiba	MAPANA_ANACONDA, WATER BOA	homowábi	h o m o w a b i	- - h o m o w a b i -	13886
-7215	carijona	MAPANA_ANACONDA, WATER BOA	ʔakaima	ʔ a k a i m a	ʔ a k a i m a	13936
-7216	carijona	MAPANA_ANACONDA, WATER BOA	akɯima	a k ɯ i m a	- a k ɯ i m a	13936
+7215	carijona	MAPANA_ANACONDA, WATER BOA	ʔakaima	ʔ a k a i m a	ʔ a k a i m a - -	13936
+7216	carijona	MAPANA_ANACONDA, WATER BOA	akɯima	a k ɯ i m a	- a k ɯ i m a - -	13936
 7586	macuna	MAPANA_ANACONDA, WATER BOA	hĩdõ	h ĩ d õ	h ĩ d õ	13913
 8372	guayabero	MAPANA_ANACONDA, WATER BOA	hombói	h o m b o i	- - h o m b o i - - -	13886
 8808	embera chamí	MAPANA_ANACONDA, WATER BOA	hepʰã́	h e pʰ ã	h e pʰ ã	13883
@@ -8047,7 +8047,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 10321	catío	MAPANA_ANACONDA, WATER BOA	hẽpʰã	h ẽ pʰ ã	h ẽ pʰ ã	13883
 10722	cubeo	MAPANA_ANACONDA, WATER BOA	ãĩki̵	ã ĩ k i̵	ã ĩ k i̵	13885
 11157	muinane	MAPANA_ANACONDA, WATER BOA	búúa	b uu a	b uu a	13880
-11158	muinane	MAPANA_ANACONDA, WATER BOA	igaiβati̵	i g a i β a t i̵	i g a i β a t i̵	13936
+11158	muinane	MAPANA_ANACONDA, WATER BOA	igaiβati̵	i g a i β a t i̵	- i g a i β a t i̵	13936
 11687	desano	MAPANA_ANACONDA, WATER BOA	pĩrṹ	p ĩ r ũ	p ĩ r ũ	13913
 12436	dí̵mi̵na	MAPANA_ANACONDA, WATER BOA	mi̵nta	m i̵ n t a	m i̵ n t a	13889
 12819	embera Darién	MAPANA_ANACONDA, WATER BOA	hepʰã	h e pʰ ã	h e pʰ ã	13883
@@ -8330,9 +8330,9 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 2161	awa	TUCÁN, PINSHA_TOUCAN	pilʧik	p i l ʧ i k	p i l ʧ i k	26900
 2162	awa	TUCÁN, PINSHA_TOUCAN	waxpul	w a x p u l	w a x p u l	24167
 2552	epena basurudó	TUCÁN, PINSHA_TOUCAN	kʰṹaɾa	kʰ ũ a ɾ a	kʰ ũ - a ɾ a	24107
-3011	bora	TUCÁN, PINSHA_TOUCAN	nɯʧe	n ɯ ʧ e	n ɯ - - - ʧ e - - -	24126
+3011	bora	TUCÁN, PINSHA_TOUCAN	nɯʧe	n ɯ ʧ e	n ɯ ʧ e - - -	24126
 3012	bora	TUCÁN, PINSHA_TOUCAN	tʰóʔrokʷa	tʰ o ʔ r o kʷ a	tʰ o ʔ r o kʷ a	24161
-3013	bora	TUCÁN, PINSHA_TOUCAN	rííoó	r ii oo	r ii oo	24141
+3013	bora	TUCÁN, PINSHA_TOUCAN	rííoó	r ii oo	r ii - oo - -	24141
 3014	bora	TUCÁN, PINSHA_TOUCAN	perííʔjo	p e r ii ʔ j o	p e r ii ʔ j o	24100
 3631	giacone	TUCÁN, PINSHA_TOUCAN	jáase	j aa s e	j aa s e -	24099
 3908	barí	TUCÁN, PINSHA_TOUCAN	səkəkdurə	s ə k ə k d u r ə	s ə k ə k d u r ə	24103
@@ -8344,42 +8344,42 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 6053	cha'palaachi	TUCÁN, PINSHA_TOUCAN	ʧandutu	ʧ a n d u t u	ʧ a n d u t u	24121
 6383	guambiano	TUCÁN, PINSHA_TOUCAN	tã	t ã	t ã	24121
 6762	cuiba	TUCÁN, PINSHA_TOUCAN	tukuékue	t u k u e k u e	t u k u e k u e	24110
-7222	carijona	TUCÁN, PINSHA_TOUCAN	ʧahako	ʧ a h a k o	ʧ a h a - k o - - -	24126
+7222	carijona	TUCÁN, PINSHA_TOUCAN	ʧahako	ʧ a h a k o	ʧ a h a - k o - - -	97
 7596	macuna	TUCÁN, PINSHA_TOUCAN	rase	r a s e	r a s e -	24099
-8381	guayabero	TUCÁN, PINSHA_TOUCAN	ʧahí̵a	ʧ a h i̵ a	ʧ a h i̵ - - a - - -	24126
+8381	guayabero	TUCÁN, PINSHA_TOUCAN	ʧahí̵a	ʧ a h i̵ a	ʧ a h i̵ - - a - - -	97
 8815	embera chamí	TUCÁN, PINSHA_TOUCAN	kʰĩwã́ɾã	kʰ ĩ w ã ɾ ã	kʰ ĩ w ã ɾ ã	24107
 9211	carapana	TUCÁN, PINSHA_TOUCAN	rasé	r a s e	r a s e -	24099
 9588	curripaco	TUCÁN, PINSHA_TOUCAN	jate	j a t e	j a t e -	24099
-9936	ika	TUCÁN, PINSHA_TOUCAN	ʧáʔgo	ʧ a ʔ g o	ʧ a ʔ - - g o - - -	24126
+9936	ika	TUCÁN, PINSHA_TOUCAN	ʧáʔgo	ʧ a ʔ g o	ʧ a ʔ - - g o - - -	97
 10328	catío	TUCÁN, PINSHA_TOUCAN	kʰewãrã́	kʰ e w ã r ã	kʰ e w ã r ã	24107
 10732	cubeo	TUCÁN, PINSHA_TOUCAN	hoéwe	h o e w e	h o e w e	24109
-11177	muinane	TUCÁN, PINSHA_TOUCAN	ní̵go	n i̵ g o	n i̵ - - - g o - - -	24126
+11177	muinane	TUCÁN, PINSHA_TOUCAN	ní̵go	n i̵ g o	n i̵ g o - - -	24126
 11178	muinane	TUCÁN, PINSHA_TOUCAN	xí̵í̵kki̵gai	x i̵i̵ kk i̵ g a i	x i̵i̵ kk i̵ g a i	24164
 11179	muinane	TUCÁN, PINSHA_TOUCAN	rí̵ʔúúʔu	r i̵ ʔ uu ʔ u	r i̵ ʔ uu ʔ u	24141
 11180	muinane	TUCÁN, PINSHA_TOUCAN	bárʲígai	b a rʲ i g a i	b a rʲ i g a i	24100
 11692	desano	TUCÁN, PINSHA_TOUCAN	dãsĩ́	d ã s ĩ	d ã s ĩ -	24099
 12072	inga	TUCÁN, PINSHA_TOUCAN	pikúdu	p i k u d u	p i k u d u	24124
-12442	dí̵mi̵na	TUCÁN, PINSHA_TOUCAN	gwasaré	g w a s a r e	g w a s a r e	24170
+12442	dí̵mi̵na	TUCÁN, PINSHA_TOUCAN	gwasaré	g w a s a r e	g - w a s a r e -	24170
 12825	embera Darién	TUCÁN, PINSHA_TOUCAN	kʰẽwãrã́	kʰ ẽ w ã r ã	kʰ ẽ w ã r ã	24107
 13159	nukak	TUCÁN, PINSHA_TOUCAN	nih⁴	n i h	n i h	24127
-13502	jupda	TUCÁN, PINSHA_TOUCAN	ʧogot	ʧ o g o t	ʧ o - - - g o - t -	24126
+13502	jupda	TUCÁN, PINSHA_TOUCAN	ʧogot	ʧ o g o t	ʧ o - - - g o - t -	99
 13815	jitnu	TUCÁN, PINSHA_TOUCAN	tukúeko	t u k u e k o	t u k u e k o -	24110
 13816	jitnu	TUCÁN, PINSHA_TOUCAN	tĩã́j	t ĩ ã j	t ĩ ã j	24163
 14178	koreguaje	TUCÁN, PINSHA_TOUCAN	ɲase	ɲ a s e	ɲ a s e	24099
 15029	kakua	TUCÁN, PINSHA_TOUCAN	dĩh⁴	d ĩ h	d ĩ h	24127
-15474	witoto mi̵ni̵ca	TUCÁN, PINSHA_TOUCAN	nokáido	n o k a i d o	n o - - - k a i d o	24126
-15909	kogui	TUCÁN, PINSHA_TOUCAN	huasaldé	h u a s a l d e	h u a s a l d e	24170
-16316	witoto ni̵pode	TUCÁN, PINSHA_TOUCAN	nokáido	n o k a i d o	n o - - - k a i d o	24126
-16778	miraña	TUCÁN, PINSHA_TOUCAN	nɯʧe	n ɯ ʧ e	n ɯ - - - ʧ e - - -	24126
+15474	witoto mi̵ni̵ca	TUCÁN, PINSHA_TOUCAN	nokáido	n o k a i d o	n o k a i d o	24126
+15909	kogui	TUCÁN, PINSHA_TOUCAN	huasaldé	h u a s a l d e	h u - a s a l d e	24170
+16316	witoto ni̵pode	TUCÁN, PINSHA_TOUCAN	nokáido	n o k a i d o	n o k a i d o	24126
+16778	miraña	TUCÁN, PINSHA_TOUCAN	nɯʧe	n ɯ ʧ e	n ɯ ʧ e - - -	24126
 17199	piratapuyo	TUCÁN, PINSHA_TOUCAN	dase	d a s e	d a s e -	24099
-17600	playero	TUCÁN, PINSHA_TOUCAN	siõṍn	s i õõ n	s i õõ n	24139
-18022	witoto murui	TUCÁN, PINSHA_TOUCAN	nokaido	n o k a i d o	n o - - - k a i d o	24126
-18472	ocaina	TUCÁN, PINSHA_TOUCAN	ɲoxaaʔʧo	ɲ o x aa ʔ ʧ o	ɲ o x aa ʔ ʧ o - - -	24126
-18473	ocaina	TUCÁN, PINSHA_TOUCAN	ʤíooβɯ	ʤ i oo β ɯ	ʤ i oo β ɯ	24141
+17600	playero	TUCÁN, PINSHA_TOUCAN	siõṍn	s i õõ n	s i - õõ n -	24141
+18022	witoto murui	TUCÁN, PINSHA_TOUCAN	nokaido	n o k a i d o	n o k a i d o	24126
+18472	ocaina	TUCÁN, PINSHA_TOUCAN	ɲoxaaʔʧo	ɲ o x aa ʔ ʧ o	ɲ o x aa ʔ ʧ o	24126
+18473	ocaina	TUCÁN, PINSHA_TOUCAN	ʤíooβɯ	ʤ i oo β ɯ	ʤ i - oo β ɯ	24141
 18904	orejón	TUCÁN, PINSHA_TOUCAN	jãse	j ã s e	j ã s e -	24099
 19230	piapoco	TUCÁN, PINSHA_TOUCAN	ʧáse	ʧ a s e	ʧ a s e -	24099
 19648	puinave	TUCÁN, PINSHA_TOUCAN	wãn	w ã n	w ã n	24140
-19999	resígaro	TUCÁN, PINSHA_TOUCAN	ʤíío	ʤ ii o	ʤ ii o - -	24141
+19999	resígaro	TUCÁN, PINSHA_TOUCAN	ʤíío	ʤ ii o	ʤ ii - o - -	24141
 20361	sáliba	TUCÁN, PINSHA_TOUCAN	malinaidi	m a l i n a i d i	m a l i n a i d i	24145
 20715	siona	TUCÁN, PINSHA_TOUCAN	jãse	j ã s e	j ã s e -	24099
 21077	siriano	TUCÁN, PINSHA_TOUCAN	dãsĩ́	d ã s ĩ	d ã s ĩ -	24099
@@ -8394,8 +8394,8 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 25576	wanano	TUCÁN, PINSHA_TOUCAN	dasa	d a s a	d a s a -	24099
 26528	yucuna	TUCÁN, PINSHA_TOUCAN	jáase	j aa s e	j aa s e -	24099
 26908	yukpa	TUCÁN, PINSHA_TOUCAN	ʃáʔtre	ʃ a ʔ t r e	ʃ a ʔ t r e	24158
-26909	yukpa	TUCÁN, PINSHA_TOUCAN	kowáʃki̵ kũráʔri̵	k o w a ʃ k i̵	k o w a ʃ k i̵	24170
-26910	yukpa	TUCÁN, PINSHA_TOUCAN	kowáski̵	k o w a s k i̵	k o w a s k i̵	24170
+26909	yukpa	TUCÁN, PINSHA_TOUCAN	kowáʃki̵ kũráʔri̵	k o w a ʃ k i̵	k o w a ʃ - k i̵ -	24170
+26910	yukpa	TUCÁN, PINSHA_TOUCAN	kowáski̵	k o w a s k i̵	k o w a s - k i̵ -	24170
 27265	yurutí	TUCÁN, PINSHA_TOUCAN	dásee	d a s ee	d a s ee -	24099
 134	kamsá	LORO_PARROT	ʃatúo	ʃ a t u o	ʃ a t u o	26905
 135	kamsá	LORO_PARROT	ʃatú	ʃ a t u	ʃ a t u -	26905
@@ -8487,7 +8487,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 4653	guahibo	GALLINAZO_BUZZARD	ké:kere	k e: k e r e	k e: k e r e	9935
 4654	guahibo	GALLINAZO_BUZZARD	wá:juli	w a: j u l i	w a: j u l i - -	9954
 5160	barasana	GALLINAZO_BUZZARD	juká	j u k a	j u k a	9925
-5695	secoya	GALLINAZO_BUZZARD	pi̵pi̵di	p i̵ p i̵ d i	p i̵ p i̵ d i	9932
+5695	secoya	GALLINAZO_BUZZARD	pi̵pi̵di	p i̵ p i̵ d i	p i̵ p i̵ d i	83
 6055	cha'palaachi	GALLINAZO_BUZZARD	petʲutʲu	p e tʲ u tʲ u	p e tʲ u tʲ u	9932
 6385	guambiano	GALLINAZO_BUZZARD	kalʲinaso	k a lʲ i n a s o	- k a lʲ i n a s o	9945
 6765	cuiba	GALLINAZO_BUZZARD	kékere	k e k e r e	k e k e r e	9935
@@ -10648,58 +10648,58 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 26577	yucuna	TABACO_TOBACCO	líʧi	l i ʧ i	- - l i ʧ i - -	26947
 26950	yukpa	TABACO_TOBACCO	tápa	t a p a	t a - p a - - - - - - - -	23044
 27301	yurutí	TABACO_TOBACCO	bĩ̵́dõ	b ĩ̵ d õ	b ĩ̵ - d õ -	23023
-167	kamsá	ALGODÓN_COTTON	tongéntseʃe	t o n g e n ts e ʃ e	t o n g e n ts e ʃ e	732
+167	kamsá	ALGODÓN_COTTON	tongéntseʃe	t o n g e n ts e ʃ e	- - t o n g e n ts e ʃ e	721
 1424	achagua	ALGODÓN_COTTON	dumáʃi	d u m a ʃ i	d u m a ʃ i	711
 2203	awa	ALGODÓN_COTTON	pimpuh	p i m p u h	p i m p u h	712
 2588	epena basurudó	ALGODÓN_COTTON	moháo pʰúda	m o h a o	m o h a o	754
-3086	bora	ALGODÓN_COTTON	aʔti	a ʔ t i	a ʔ t i - -	775
+3086	bora	ALGODÓN_COTTON	aʔti	a ʔ t i	- a ʔ - t i - - - - -	741
 3932	barí	ALGODÓN_COTTON	kaɾanə	k a ɾ a n ə	k a ɾ a n ə	715
 4262	bará	ALGODÓN_COTTON	buha	b u h a	b u h a	714
 4263	bará	ALGODÓN_COTTON	juta	j u t a	j u t a	713
-4698	guahibo	ALGODÓN_COTTON	papái̵nae	p a p a i̵ n a e	- - - p a p a i̵ n a e - - - - - -	26948
-4699	guahibo	ALGODÓN_COTTON	papai̵putáto	p a p a i̵ p u t a t o	- - - p a p a i̵ - - - p u t a t o	768
+4698	guahibo	ALGODÓN_COTTON	papái̵nae	p a p a i̵ n a e	- - - p a p a i̵ n a e - - - - - -	75
+4699	guahibo	ALGODÓN_COTTON	papai̵putáto	p a p a i̵ p u t a t o	- - - p a p a i̵ - - - p u t a t o	26948
 5195	barasana	ALGODÓN_COTTON	ji̵tá	j i̵ t a	j i̵ t a	713
-5725	secoya	ALGODÓN_COTTON	ojajui	o j a j u i	o j a j u i	26949
-6084	cha'palaachi	ALGODÓN_COTTON	kuhua	k u h u a	k u h u a	715
-6815	cuiba	ALGODÓN_COTTON	papóuto	p a p o u t o	- - - p a - - - - - - p o - u t o	768
-6816	cuiba	ALGODÓN_COTTON	papúnae	p a p u n a e	- - - p a p u - n a e - - - - - -	26948
-7258	carijona	ALGODÓN_COTTON	maᵘru	m aᵘ r u	m aᵘ r u	718
+5725	secoya	ALGODÓN_COTTON	ojajui	o j a j u i	o j a j u i - -	26949
+6084	cha'palaachi	ALGODÓN_COTTON	kuhua	k u h u a	k u h u a	758
+6815	cuiba	ALGODÓN_COTTON	papóuto	p a p o u t o	- - - p a - - - - - - p o - u t o	26948
+6816	cuiba	ALGODÓN_COTTON	papúnae	p a p u n a e	- - - p a p u - n a e - - - - - -	75
+7258	carijona	ALGODÓN_COTTON	maᵘru	m aᵘ r u	m aᵘ r u	764
 7633	macuna	ALGODÓN_COTTON	ji̵ta	j i̵ t a	j i̵ t a	713
-8015	chimila	ALGODÓN_COTTON	jóoroŋgɾa	j oo r o ŋ g ɾ a	j oo r o ŋ g ɾ a	721
-8431	guayabero	ALGODÓN_COTTON	papúd	p a p u d	- - - p a - - - - - - p u d - - -	768
-8432	guayabero	ALGODÓN_COTTON	papúdne	p a p u d n e	- - - p a p u d n - e - - - - - -	768
-8433	guayabero	ALGODÓN_COTTON	papúdt	p a p u d t	- - - p a - - - - - - p u d - t -	768
+8015	chimila	ALGODÓN_COTTON	jóoroŋgɾa	j oo r o ŋ g ɾ a	j oo r o ŋ g - ɾ a - - -	721
+8431	guayabero	ALGODÓN_COTTON	papúd	p a p u d	- - - p a - - - - - - p u d - - -	26948
+8432	guayabero	ALGODÓN_COTTON	papúdne	p a p u d n e	- - - p a p u d n - e - - - - - -	75
+8433	guayabero	ALGODÓN_COTTON	papúdt	p a p u d t	- - - p a - - - - - - p u d - t -	26948
 8852	embera chamí	ALGODÓN_COTTON	moháu pʰúda	m o h a u	m o h a u	754
 9247	carapana	ALGODÓN_COTTON	jita	j i t a	j i t a	713
-9624	curripaco	ALGODÓN_COTTON	táβali	t a β a l i	t a β a l i	741
-9971	ika	ALGODÓN_COTTON	únki̵	u n k i̵	u n k i̵	732
+9624	curripaco	ALGODÓN_COTTON	táβali	t a β a l i	t a β a l i - - - - -	741
+9971	ika	ALGODÓN_COTTON	únki̵	u n k i̵	- - - u n k i̵ - - - - -	721
 10367	catío	ALGODÓN_COTTON	maha pʰódo	m a h a	m a h a -	754
-10771	cubeo	ALGODÓN_COTTON	ji̵íbẽ́	j i̵ i b ẽ	j i̵ i b ẽ	26949
-11234	muinane	ALGODÓN_COTTON	xáʔadi	x a ʔ a d i	x a ʔ a d i	741
+10771	cubeo	ALGODÓN_COTTON	ji̵íbẽ́	j i̵ i b ẽ	- - - j i̵ i b ẽ	26949
+11234	muinane	ALGODÓN_COTTON	xáʔadi	x a ʔ a d i	x a ʔ a d i - - - - -	741
 11730	desano	ALGODÓN_COTTON	jurá	j u r a	j u r a - -	713
 12480	dí̵mi̵na	ALGODÓN_COTTON	buruna	b u r u n a	b u r u n a	726
 13189	nukak	ALGODÓN_COTTON	paabm³	p aa b m	- - - p aa b m - - - - - - - - - -	26948
 13533	jupda	ALGODÓN_COTTON	jud ti̵t	j u d	j u d	713
-13853	jitnu	ALGODÓN_COTTON	molputát	m o l p u t a t	m o l - - - - - - - - p u t a t -	768
-14221	koreguaje	ALGODÓN_COTTON	ʤi̵i	ʤ i̵ i	ʤ i̵ i	26949
+13853	jitnu	ALGODÓN_COTTON	molputát	m o l p u t a t	m o l - - - - - - - - p u t a t -	26948
+14221	koreguaje	ALGODÓN_COTTON	ʤi̵i	ʤ i̵ i	- - - ʤ i̵ i - -	26949
 14639	páez	ALGODÓN_COTTON	wawa	w a w a	w a w a	749
 15069	kakua	ALGODÓN_COTTON	pab²	p a b	- - - p a b - - - - - - - - - - -	26948
 15523	witoto mi̵ni̵ca	ALGODÓN_COTTON	háikɯe	h a i k ɯ e	h a i k ɯ - e	765
-15950	kogui	ALGODÓN_COTTON	múla	m u l a	m u l a	718
+15950	kogui	ALGODÓN_COTTON	múla	m u l a	m u l a	764
 16362	witoto ni̵pode	ALGODÓN_COTTON	háikɯna	h a i k ɯ n a	h a i k ɯ n a	765
-16821	miraña	ALGODÓN_COTTON	áʔtiʔe	a ʔ t i ʔ e	a ʔ t i ʔ e	775
-16822	miraña	ALGODÓN_COTTON	áʔtiʔéhtʰe	a ʔ t i ʔ e h tʰ e	a ʔ t i ʔ e h tʰ e	775
+16821	miraña	ALGODÓN_COTTON	áʔtiʔe	a ʔ t i ʔ e	- a ʔ - t i ʔ e - - -	741
+16822	miraña	ALGODÓN_COTTON	áʔtiʔéhtʰe	a ʔ t i ʔ e h tʰ e	- a ʔ - t i ʔ e h tʰ e	741
 17235	piratapuyo	ALGODÓN_COTTON	juta	j u t a	j u t a	713
-17641	playero	ALGODÓN_COTTON	pepútoto	p e p u t o t o	- - - p e - - - - - - p u t o t o	768
+17641	playero	ALGODÓN_COTTON	pepútoto	p e p u t o t o	- - - p e - - - - - - p u t o t o	26948
 18061	witoto murui	ALGODÓN_COTTON	haikɯe	h a i k ɯ e	h a i k ɯ - e	765
 18522	ocaina	ALGODÓN_COTTON	ɸĩ́ãã	ɸ ĩ ãã	ɸ ĩ ãã - -	743
 18523	ocaina	ALGODÓN_COTTON	ɸĩ́ããha	ɸ ĩ ãã h a	ɸ ĩ ãã h a	743
-18937	orejón	ALGODÓN_COTTON	ji̵i	j i̵ i	j i̵ i - - -	26949
-19270	piapoco	ALGODÓN_COTTON	sáawáli	s aa w a l i	s aa w a l i	741
-19686	puinave	ALGODÓN_COTTON	sawan	s a w a n	s a w a n	741
+18937	orejón	ALGODÓN_COTTON	ji̵i	j i̵ i	- - - j i̵ i - -	26949
+19270	piapoco	ALGODÓN_COTTON	sáawáli	s aa w a l i	s aa w a l i - - - - -	741
+19686	puinave	ALGODÓN_COTTON	sawan	s a w a n	s a w a n - - - - - -	741
 20035	resígaro	ALGODÓN_COTTON	tsʰomaátsʰí	tsʰ o m aa tsʰ i	tsʰ o m aa tsʰ i	711
 20400	sáliba	ALGODÓN_COTTON	põhãʔno	p õ h ã ʔ n o	p õ h ã ʔ n o	754
-20756	siona	ALGODÓN_COTTON	ji̵i	j i̵ i	j i̵ i - - -	26949
+20756	siona	ALGODÓN_COTTON	ji̵i	j i̵ i	- - - j i̵ i - -	26949
 21116	siriano	ALGODÓN_COTTON	juráda	j u r a d a	j u r a d a	713
 21493	tatuyo	ALGODÓN_COTTON	jita	j i t a	j i t a	713
 21875	tucano	ALGODÓN_COTTON	jutá	j u t a	j u t a	713
@@ -10712,28 +10712,28 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 24232	tuyuca	ALGODÓN_COTTON	jutá	j u t a	j u t a	713
 24670	waimaja	ALGODÓN_COTTON	buhá	b u h a	b u h a	714
 24671	waimaja	ALGODÓN_COTTON	ji̵tá	j i̵ t a	j i̵ t a	713
-25179	wounaan	ALGODÓN_COTTON	potap maaɾ	p o t a p	- - - - - - - - - - - p o t a p -	768
+25179	wounaan	ALGODÓN_COTTON	potap maaɾ	p o t a p	- - - - - - - - - - - p o t a p -	26948
 25613	wanano	ALGODÓN_COTTON	juta	j u t a	j u t a	713
 26068	wayuu	ALGODÓN_COTTON	máawi̵i	m aa w i̵ i	m aa w i̵ i	764
 26578	yucuna	ALGODÓN_COTTON	amanijú	a m a n i j u	a m a n i j u	769
 27302	yurutí	ALGODÓN_COTTON	júta	j u t a	j u t a	713
 168	kamsá	CALABAZO PORO_GOURD	tausbé	t a u s b e	t a - u - s b e	3359
-1425	achagua	CALABAZO PORO_GOURD	ʧukúta	ʧ u k u t a	ʧ u k u t a - -	26951
+1425	achagua	CALABAZO PORO_GOURD	ʧukúta	ʧ u k u t a	ʧ u k u t a - -	81
 1816	epena Saija	CALABAZO PORO_GOURD	hiatáu	h i a t a u	h i - a t a u	3329
 2204	awa	CALABAZO PORO_GOURD	kalpu	k a l p u	k a l p u	3322
 2589	epena basurudó	CALABAZO PORO_GOURD	hiatáu	h i a t a u	h i - a t a u	3329
-3087	bora	CALABAZO PORO_GOURD	toótʰo	t oo tʰ o	t oo tʰ o - - - -	3346
-3088	bora	CALABAZO PORO_GOURD	tóótʰoɯ	t oo tʰ o ɯ	t oo tʰ o ɯ - - -	3346
+3087	bora	CALABAZO PORO_GOURD	toótʰo	t oo tʰ o	- - - - t oo tʰ o - - - - -	3346
+3088	bora	CALABAZO PORO_GOURD	tóótʰoɯ	t oo tʰ o ɯ	- - - - t oo tʰ o ɯ - - - -	3346
 3933	barí	CALABAZO PORO_GOURD	ʃimə	ʃ i m ə	ʃ i m ə	26950
-4264	bará	CALABAZO PORO_GOURD	waagá	w aa g a	w aa - - - - g a	3356
-4700	guahibo	CALABAZO PORO_GOURD	dérebi̵:	d e r e b i̵:	- - - - d e - r e - b i̵:	70
-4701	guahibo	CALABAZO PORO_GOURD	tsúkutobi̵	ts u k u t o b i̵	ts u k u t o b i̵	3385
+4264	bará	CALABAZO PORO_GOURD	waagá	w aa g a	w aa - - - - g a	70
+4700	guahibo	CALABAZO PORO_GOURD	dérebi̵:	d e r e b i̵:	- - - d e - r e b i̵:	82
+4701	guahibo	CALABAZO PORO_GOURD	tsúkutobi̵	ts u k u t o b i̵	ts u k u t o b i̵	81
 5196	barasana	CALABAZO PORO_GOURD	koaro	k o a r o	k o a r o	3356
 5726	secoya	CALABAZO PORO_GOURD	hĩso	h ĩ s o	h ĩ s o	3361
 6085	cha'palaachi	CALABAZO PORO_GOURD	huaju	h u a j u	h u a j u	3330
-6416	guambiano	CALABAZO PORO_GOURD	tur	t u r	t u r - - - - -	3346
-6817	cuiba	CALABAZO PORO_GOURD	dérebi̵	d e r e b i̵	d e r e - - b i̵	3346
-6818	cuiba	CALABAZO PORO_GOURD	tsóropa	ts o r o p a	ts o r o - - p a	3346
+6416	guambiano	CALABAZO PORO_GOURD	tur	t u r	- - - - t u r - - - - - -	3346
+6817	cuiba	CALABAZO PORO_GOURD	dérebi̵	d e r e b i̵	- - - d e - r e b i̵	82
+6818	cuiba	CALABAZO PORO_GOURD	tsóropa	ts o r o p a	- - - - ts o r o - - p a -	3346
 7259	carijona	CALABAZO PORO_GOURD	kariba	k a r i b a	k a r i b a	3322
 7634	macuna	CALABAZO PORO_GOURD	koa	k o a	k o - a - - - -	3356
 8016	chimila	CALABAZO PORO_GOURD	júmme	j u mm e	j u mm e	26950
@@ -10741,21 +10741,21 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 8434	guayabero	CALABAZO PORO_GOURD	haʔt	h a ʔ t	h a ʔ t	3343
 8435	guayabero	CALABAZO PORO_GOURD	muit	m u i t	- m u i t	3387
 8853	embera chamí	CALABAZO PORO_GOURD	hiadáu	h i a d a u	h i - a d a u	3329
-9248	carapana	CALABAZO PORO_GOURD	wáaro	w aa r o	w - - aa r o - -	3356
+9248	carapana	CALABAZO PORO_GOURD	wáaro	w aa r o	w - - aa r o - -	70
 9625	curripaco	CALABAZO PORO_GOURD	kuja	k u j a	k u j a	3334
 9972	ika	CALABAZO PORO_GOURD	so	s o	s o	26950
 10368	catío	CALABAZO PORO_GOURD	hiwadó	h i w a d o	h i w a d o -	3329
-10772	cubeo	CALABAZO PORO_GOURD	hokóri̵	h o k o r i̵	h o k o r i̵ - -	26951
+10772	cubeo	CALABAZO PORO_GOURD	hokóri̵	h o k o r i̵	h o k o r i̵ - -	81
 11235	muinane	CALABAZO PORO_GOURD	xááxe	x aa x e	x aa - - x e	3353
 11236	muinane	CALABAZO PORO_GOURD	xáʔaxe	x a ʔ a x e	x a ʔ a x e	3353
-11237	muinane	CALABAZO PORO_GOURD	dúutuʔu	d uu t u ʔ u	d uu t u ʔ u - -	3346
+11237	muinane	CALABAZO PORO_GOURD	dúutuʔu	d uu t u ʔ u	- - - - d uu t u ʔ u - - -	3346
 11731	desano	CALABAZO PORO_GOURD	koáru	k o a r u	k o - a r u - -	3356
 12103	inga	CALABAZO PORO_GOURD	púru	p u r u	p u r u	3345
 12481	dí̵mi̵na	CALABAZO PORO_GOURD	ʃu	ʃ u	ʃ u	26950
-13190	nukak	CALABAZO PORO_GOURD	dalo³aʔ⁴	d a l o a ʔ	d a l o a ʔ - -	3346
-13854	jitnu	CALABAZO PORO_GOURD	rerbí̵	r e r b i̵	- - - - r e - r - b i̵ -	70
+13190	nukak	CALABAZO PORO_GOURD	dalo³aʔ⁴	d a l o a ʔ	- - - - d a l o a ʔ - - -	3346
+13854	jitnu	CALABAZO PORO_GOURD	rerbí̵	r e r b i̵	- - - r e - r - b i̵	82
 14461	koreguaje	CALABAZO PORO_GOURD	okʰopi̵	o kʰ o p i̵	- o kʰ o - - p i̵	26951
-14462	koreguaje	CALABAZO PORO_GOURD	okʰoreʔreβa	o kʰ o r e ʔ r e β a	o kʰ o - r e ʔ r e β a -	70
+14462	koreguaje	CALABAZO PORO_GOURD	okʰoreʔreβa	o kʰ o r e ʔ r e β a	o kʰ o r e ʔ r e β a	82
 14640	páez	CALABAZO PORO_GOURD	tuka	t u k a	t u k a - - - -	3359
 15070	kakua	CALABAZO PORO_GOURD	pẽje³ ʧo²	p ẽ j e # ʧ o	p ẽ j e # ʧ o	3358
 15071	kakua	CALABAZO PORO_GOURD	bõjʔ³ ʧo²	b õ j ʔ	b õ j ʔ -	3349
@@ -10764,8 +10764,8 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 15951	kogui	CALABAZO PORO_GOURD	moŋkú	m o ŋ k u	m o ŋ k u	3349
 16363	witoto ni̵pode	CALABAZO PORO_GOURD	huʤéko	h u ʤ e k o	h u ʤ e k o	3377
 16823	miraña	CALABAZO PORO_GOURD	tʰéʔkʰépa	tʰ e ʔ kʰ e p a	tʰ e ʔ kʰ e p a	3352
-17236	piratapuyo	CALABAZO PORO_GOURD	wahaga	w a h a g a	w a h a - - g a	3356
-17642	playero	CALABAZO PORO_GOURD	ʧoróbi̵	ʧ o r o b i̵	ʧ o r o - - b i̵	3346
+17236	piratapuyo	CALABAZO PORO_GOURD	wahaga	w a h a g a	w a h a - - g a	70
+17642	playero	CALABAZO PORO_GOURD	ʧoróbi̵	ʧ o r o b i̵	- - - - ʧ o r o - - b i̵ -	3346
 18062	witoto murui	CALABAZO PORO_GOURD	emokɯ	e m o k ɯ	- e m o k ɯ	3355
 19271	piapoco	CALABAZO PORO_GOURD	kumàʧi	k u m a ʧ i	k u m a ʧ i	3355
 19687	puinave	CALABAZO PORO_GOURD	pək ju	p ə k # j u	p ə k - # j u	3358
@@ -10774,25 +10774,25 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 20757	siona	CALABAZO PORO_GOURD	sãsa	s ã s a	s ã s a	3361
 20758	siona	CALABAZO PORO_GOURD	ũku tĩʔĩ	ũ k u	- ũ k u - - - -	26951
 21117	siriano	CALABAZO PORO_GOURD	kooarú	k oo a r u	k oo - a r u - -	3356
-21494	tatuyo	CALABAZO PORO_GOURD	wáaro	w aa r o	w - - aa r o - -	3356
-21877	tucano	CALABAZO PORO_GOURD	waháro	w a h a r o	w a h a r o - -	3356
+21494	tatuyo	CALABAZO PORO_GOURD	wáaro	w aa r o	w - - aa r o - -	70
+21877	tucano	CALABAZO PORO_GOURD	waháro	w a h a r o	w a h a r o - -	70
 22274	embera Tadó	CALABAZO PORO_GOURD	hiadáu	h i a d a u	h i - a d a u	3329
-22275	embera Tadó	CALABAZO PORO_GOURD	sukʰumá	s u kʰ u m a	s u kʰ u m a	3385
+22275	embera Tadó	CALABAZO PORO_GOURD	sukʰumá	s u kʰ u m a	s u kʰ u m a	81
 22658	tanimuca	CALABAZO PORO_GOURD	koʔa	k o ʔ a	k o ʔ a - - - -	3356
 23028	tunebo central	CALABAZO PORO_GOURD	toká	t o k a	t o k a - - - -	3359
 23567	tsafiqui pila	CALABAZO PORO_GOURD	boli	b o l i	b o l i	3345
 23894	totoró	CALABAZO PORO_GOURD	kel	k e l	k e l - -	3322
-24233	tuyuca	CALABAZO PORO_GOURD	waagá	w aa g a	w aa - - - - g a	3356
-24672	waimaja	CALABAZO PORO_GOURD	wáagá	w aa g a	w aa - - - - g a	3356
+24233	tuyuca	CALABAZO PORO_GOURD	waagá	w aa g a	w aa - - - - g a	70
+24672	waimaja	CALABAZO PORO_GOURD	wáagá	w aa g a	w aa - - - - g a	70
 25180	wounaan	CALABAZO PORO_GOURD	tʰãu	tʰ ã u	tʰ ã u	3378
-25614	wanano	CALABAZO PORO_GOURD	wahaka	w a h a k a	w a h a - - k a	3356
+25614	wanano	CALABAZO PORO_GOURD	wahaka	w a h a k a	w a h a - - k a	70
 26069	wayuu	CALABAZO PORO_GOURD	alíita	a l ii t a	a l ii t a	3374
 26070	wayuu	CALABAZO PORO_GOURD	amúlu	a m u l u	a m u l u	3387
 26071	wayuu	CALABAZO PORO_GOURD	amút	a m u t	a m u t -	3387
 26072	wayuu	CALABAZO PORO_GOURD	iita	ii t a	- - ii t a	3374
 26579	yucuna	CALABAZO PORO_GOURD	jurumá	j u r u m a	j u r u m a	3379
 26951	yukpa	CALABAZO PORO_GOURD	kunákatopo	k u n a k a t o p o	k u n a k a t o p o	3380
-27303	yurutí	CALABAZO PORO_GOURD	wáha	w a h a	w a h a - - - -	3356
+27303	yurutí	CALABAZO PORO_GOURD	wáha	w a h a	w a h a - - - -	70
 169	kamsá	ÑAME_YAM	ʧaná	ʧ a n a	ʧ a n a -	26489
 1817	epena Saija	ÑAME_YAM	ĩkʰáde	ĩ kʰ a d e	ĩ - kʰ a - d e	26176
 2590	epena basurudó	ÑAME_YAM	ĩkʰadé	ĩ kʰ a d e	ĩ - kʰ a - d e	26176
@@ -11038,7 +11038,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 173	kamsá	AJAHUASCA, JAJÉ_BANISTERIUM	biaxíje	b i a x i j e	b i a x i j e	546
 1822	epena Saija	AJAHUASCA, JAJÉ_BANISTERIUM	dápʰa	d a pʰ a	d a - pʰ a - - - - - - -	561
 2595	epena basurudó	AJAHUASCA, JAJÉ_BANISTERIUM	dapá	d a p a	d a - p a - - - - - - -	561
-3096	bora	AJAHUASCA, JAJÉ_BANISTERIUM	népaxkʰe	n e p a x kʰ e	n e - p a x kʰ e - - - -	561
+3096	bora	AJAHUASCA, JAJÉ_BANISTERIUM	népaxkʰe	n e p a x kʰ e	n e - p a x kʰ e - - - -	76
 4270	bará	AJAHUASCA, JAJÉ_BANISTERIUM	kapí	k a p i	k a p i -	529
 4708	guahibo	AJAHUASCA, JAJÉ_BANISTERIUM	xuípa	x u i p a	x u i p a - - - - - - -	561
 5202	barasana	AJAHUASCA, JAJÉ_BANISTERIUM	kahí idíre	k a h i	k a h i	529
@@ -11062,7 +11062,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 15078	kakua	AJAHUASCA, JAJÉ_BANISTERIUM	kapi⁴	k a p i	k a - p i -	529
 15531	witoto mi̵ni̵ca	AJAHUASCA, JAJÉ_BANISTERIUM	únao	u n a o	u n a o	551
 16369	witoto ni̵pode	AJAHUASCA, JAJÉ_BANISTERIUM	únao	u n a o	u n a o	551
-16829	miraña	AJAHUASCA, JAJÉ_BANISTERIUM	népahkʰe	n e p a h kʰ e	n e - p a h kʰ e - - - -	561
+16829	miraña	AJAHUASCA, JAJÉ_BANISTERIUM	népahkʰe	n e p a h kʰ e	n e - p a h kʰ e - - - -	76
 17242	piratapuyo	AJAHUASCA, JAJÉ_BANISTERIUM	kapi	k a p i	k a p i -	529
 17647	playero	AJAHUASCA, JAJÉ_BANISTERIUM	xúipa	x u i p a	x u i p a - - - - - - -	561
 17648	playero	AJAHUASCA, JAJÉ_BANISTERIUM	tawanapíwa	t a w a n a p i w a	t a w a n a p i w a	573
@@ -11076,7 +11076,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 21499	tatuyo	AJAHUASCA, JAJÉ_BANISTERIUM	kápi	k a p i	k a p i -	529
 21883	tucano	AJAHUASCA, JAJÉ_BANISTERIUM	kapí	k a p i	k a p i -	529
 22664	tanimuca	AJAHUASCA, JAJÉ_BANISTERIUM	kapia	k a p i a	k a p i a	529
-23572	tsafiqui pila	AJAHUASCA, JAJÉ_BANISTERIUM	nepi	n e p i	n e - p i - - - - - - -	561
+23572	tsafiqui pila	AJAHUASCA, JAJÉ_BANISTERIUM	nepi	n e p i	n e - p i - - - - - - -	76
 24239	tuyuca	AJAHUASCA, JAJÉ_BANISTERIUM	kapí	k a p i	k a p i -	529
 24678	waimaja	AJAHUASCA, JAJÉ_BANISTERIUM	kápí	k a p i	k a p i -	529
 25186	wounaan	AJAHUASCA, JAJÉ_BANISTERIUM	dapkʰtɾ	d a p kʰ t ɾ	d a - p - - kʰ - t - ɾ -	561
@@ -11956,8 +11956,8 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 2221	awa	TAMBOR_DRUM	kununu	k u n u n u	k u n u n u	23090
 2609	epena basurudó	TAMBOR_DRUM	ʧokʰó	ʧ o kʰ o	ʧ o kʰ o	23093
 3112	bora	TAMBOR_DRUM	kʰɯ́ɯ́mɯpa	kʰ ɯɯ m ɯ p a	kʰ ɯɯ m ɯ p a	23090
-3665	giacone	TAMBOR_DRUM	dulipiru	d u l i p i r u	- - - - - - - - - d u l i p i r u	23089
-4285	bará	TAMBOR_DRUM	jukí̵tuti	j u k i̵ t u t i	j u k i̵ - - - - - t u t i - - - -	23089
+3665	giacone	TAMBOR_DRUM	dulipiru	d u l i p i r u	- - - - - - - - - d u l i p i r u	26979
+4285	bará	TAMBOR_DRUM	jukí̵tuti	j u k i̵ t u t i	j u k i̵ - - - - - t u t i - - - -	26979
 5221	barasana	TAMBOR_DRUM	habi̵sioriahuria	h a b i̵ s i o r i a h u r i a	h a b i̵ s i o r i a h u r i a	23088
 5742	secoya	TAMBOR_DRUM	watiwi̵	w a t i w i̵	w a t i w i̵	23104
 6105	cha'palaachi	TAMBOR_DRUM	kununu	k u n u n u	k u n u n u	23090
@@ -11972,7 +11972,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 10388	catío	TAMBOR_DRUM	zokʰó	z o kʰ o	z o kʰ o	23093
 10793	cubeo	TAMBOR_DRUM	tẽbĩ̵́rĩ́bí̵	t ẽ b ĩ̵ r ĩ b i̵	t ẽ b ĩ̵ r ĩ b i̵	23095
 11267	muinane	TAMBOR_DRUM	kí̵í̵mi̵ba	k i̵i̵ m i̵ b a	k i̵i̵ m i̵ b a	23090
-11754	desano	TAMBOR_DRUM	toátoré	t o a t o r e	- - - - t o - a - t o r e - - - -	23089
+11754	desano	TAMBOR_DRUM	toátoré	t o a t o r e	- - - - t o - a - t o r e - - - -	26979
 12125	inga	TAMBOR_DRUM	búmba	b u m b a	b u m b a	23106
 12126	inga	TAMBOR_DRUM	tambúr	t a m b u r	t a m b u r -	23095
 12498	dí̵mi̵na	TAMBOR_DRUM	kaha	k a h a	k a h a	23087
@@ -11985,28 +11985,28 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 15970	kogui	TAMBOR_DRUM	kã́ha	k ã h a	k ã h a	23087
 16385	witoto ni̵pode	TAMBOR_DRUM	húaɯɗiru	h u a ɯ ɗ i r u	h u a ɯ ɗ i r u	23133
 16844	miraña	TAMBOR_DRUM	kʰɯ́ɯ́mɯpa	kʰ ɯɯ m ɯ p a	kʰ ɯɯ m ɯ p a	23090
-17257	piratapuyo	TAMBOR_DRUM	toʔati	t o ʔ a t i	- - - - t o ʔ a - t i - - - - - -	23089
+17257	piratapuyo	TAMBOR_DRUM	toʔati	t o ʔ a t i	- - - - t o ʔ a - t i - - - - - -	26979
 17665	playero	TAMBOR_DRUM	pekótokuanʧíwa	p e k o t o k u a n ʧ i w a	p e k o t o k u a n ʧ i w a	23117
 18084	witoto murui	TAMBOR_DRUM	huaɯ	h u a ɯ	h u a ɯ	23133
-18952	orejón	TAMBOR_DRUM	ti̵ka tada	t i̵ k a	- - - - t i̵ k a	26980
+18952	orejón	TAMBOR_DRUM	ti̵ka tada	t i̵ k a	- - - - t i̵ k a	80
 20058	resígaro	TAMBOR_DRUM	koómobú	k oo m o b u	k oo m o b u	23090
 20775	siona	TAMBOR_DRUM	watigu	w a t i g u	w a t i g u	23104
-21138	siriano	TAMBOR_DRUM	tooaʔtóré	t oo a ʔ t o r e	- - - - t oo - a ʔ t o r e - - - -	23089
+21138	siriano	TAMBOR_DRUM	tooaʔtóré	t oo a ʔ t o r e	- - - - t oo - a ʔ t o r e - - - -	26979
 21514	tatuyo	TAMBOR_DRUM	júkí̵i̵rí̵ka	j u k i̵i̵ r i̵ k a	j u k i̵i̵ r i̵ k a	26980
-21899	tucano	TAMBOR_DRUM	toʔáti̵	t o ʔ a t i̵	- - - - t o ʔ a - - - t i̵ - - - -	23089
+21899	tucano	TAMBOR_DRUM	toʔáti̵	t o ʔ a t i̵	- - - - t o ʔ a - - - t i̵ - - - -	26979
 22294	embera Tadó	TAMBOR_DRUM	ʧokʰó	ʧ o kʰ o	ʧ o kʰ o	23093
-22680	tanimuca	TAMBOR_DRUM	japutaʔsia	j a p u t a ʔs i a	j a p u - - - - - t a ʔs i a - - -	23089
+22680	tanimuca	TAMBOR_DRUM	japutaʔsia	j a p u t a ʔs i a	j a p u - - - - - t a ʔs i a - - -	26979
 23048	tunebo central	TAMBOR_DRUM	kúkmara	k u k m a r a	k u k m a r a	23128
 23586	tsafiqui pila	TAMBOR_DRUM	banbutu	b a n b u t u	b a n b u t u	23126
 23905	totoró	TAMBOR_DRUM	pa¹li̵	p a l i̵	p a l i̵	23104
-24254	tuyuca	TAMBOR_DRUM	jukí̵tuti	j u k i̵ t u t i	j u k i̵ - - - - - t u t i - - - -	23089
+24254	tuyuca	TAMBOR_DRUM	jukí̵tuti	j u k i̵ t u t i	j u k i̵ - - - - - t u t i - - - -	26979
 24694	waimaja	TAMBOR_DRUM	jukí̵gi̵ toti	j u k i̵ g i̵	j u k i̵ g i̵	26979
 24695	waimaja	TAMBOR_DRUM	jukí̵ toti	j u k i̵	j u k i̵ - -	26979
-25201	wounaan	TAMBOR_DRUM	tʰũr	tʰ ũ r	- - - - - - - - - tʰ ũ r - - - - -	23089
-25633	wanano	TAMBOR_DRUM	toʔati	t o ʔ a t i	- - - - t o ʔ a - - - t i - - - -	23089
+25201	wounaan	TAMBOR_DRUM	tʰũr	tʰ ũ r	- - - - - - - - - tʰ ũ r - - - - -	26979
+25633	wanano	TAMBOR_DRUM	toʔati	t o ʔ a t i	- - - - t o ʔ a - - - t i - - - -	26979
 26092	wayuu	TAMBOR_DRUM	káaʃa	k aa ʃ a	k aa ʃ a	23087
 26599	yucuna	TAMBOR_DRUM	kúumu	k uu m u	k uu m u - -	23090
-27326	yurutí	TAMBOR_DRUM	júki̵toti	j u k i̵ t o t i	j u k i̵ - - - - - t o t i - - - -	23089
+27326	yurutí	TAMBOR_DRUM	júki̵toti	j u k i̵ t o t i	j u k i̵ - - - - - t o t i - - - -	26979
 188	kamsá	CUSHMA_CUSHMA	ʃabuanguani̵ xuá	ʃ a b u a n g u a n i̵	ʃ a b u a n g u a n i̵	7025
 1837	epena Saija	CUSHMA_CUSHMA	pʰáɾu	pʰ a ɾ u	pʰ a ɾ u - -	7017
 2222	awa	CUSHMA_CUSHMA	ti̵l kwakʃam	t i̵ l	t i̵ l	7013
@@ -12190,7 +12190,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 24700	waimaja	CURANDERO_SHAMAN, FOLK HEALER	kurí	k u r i	k u r i	6990
 24701	waimaja	CURANDERO_SHAMAN, FOLK HEALER	ka báhégi̵	k a	k a	26639
 24702	waimaja	CURANDERO_SHAMAN, FOLK HEALER	kṹbṹgi̵	k ũ b ũ g i̵	k ũ b ũ g i̵ -	7012
-24703	waimaja	CURANDERO_SHAMAN, FOLK HEALER	ka doági̵	k a	k a	26639
+24703	waimaja	CURANDERO_SHAMAN, FOLK HEALER	ka doági̵	k a	k a	96
 24704	waimaja	CURANDERO_SHAMAN, FOLK HEALER	bã́hĩgi̵ kũbũ	b ã h ĩ g i̵	b ã h ĩ g i̵	26985
 25206	wounaan	CURANDERO_SHAMAN, FOLK HEALER	btnkʰɯɯn	b t n kʰ ɯɯ n	b t n kʰ ɯɯ n	6996
 25635	wanano	CURANDERO_SHAMAN, FOLK HEALER	jairo	j a i r o	j a i r o	6974
@@ -19397,10 +19397,10 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 3752	giacone	NOMBRE_NAME	pipitana	p i p i t a n a	- - p i p i t a n a	15952
 4030	barí	NOMBRE_NAME	ʔaaɾə	ʔ aa ɾ ə	ʔ aa ɾ ə	15943
 4389	bará	NOMBRE_NAME	wãbẽ́	w ã b ẽ	w ã b ẽ - -	15941
-4883	guahibo	NOMBRE_NAME	pewí̵ni̵	p e w i̵ n i̵	p e - w i̵ n - i̵	15951
+4883	guahibo	NOMBRE_NAME	pewí̵ni̵	p e w i̵ n i̵	p e - w i̵ n i̵ -	15951
 5341	barasana	NOMBRE_NAME	wãbẽ	w ã b ẽ	w ã b ẽ - -	15941
 5849	secoya	NOMBRE_NAME	mãmĩ	m ã m ĩ	m ã m ĩ - -	15941
-6204	cha'palaachi	NOMBRE_NAME	mumu	m u m u	m u m u - -	15941
+6204	cha'palaachi	NOMBRE_NAME	mumu	m u m u	- - - m u m u -	15951
 6532	guambiano	NOMBRE_NAME	munʧi	m u n ʧ i	- - - m u n ʧ i	15951
 6983	cuiba	NOMBRE_NAME	péwi̵n	p e w i̵ n	p e - w i̵ n - -	15951
 7379	carijona	NOMBRE_NAME	ejesetɯ	e j e s e t ɯ	e j e s e t ɯ	15981
@@ -19414,7 +19414,7 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 10104	ika	NOMBRE_NAME	záʔki núga	z a ʔ k i	- - - - z a ʔ k i - - - -	15991
 10501	catío	NOMBRE_NAME	tʰɾĩ̵	tʰ ɾ ĩ̵	tʰ ɾ ĩ̵	15947
 10909	cubeo	NOMBRE_NAME	ãbĩã́	ã b ĩ ã	- ã b ĩ - ã	15941
-11428	muinane	NOMBRE_NAME	mómo	m o m o	m o m o - -	15941
+11428	muinane	NOMBRE_NAME	mómo	m o m o	m o m o - -	15951
 11871	desano	NOMBRE_NAME	wãĩ́	w ã ĩ	w ã ĩ	15953
 12242	inga	NOMBRE_NAME	súti	s u t i	s u t i	15965
 12611	dí̵mi̵na	NOMBRE_NAME	ʒaginukka	ʒ a g i n u kk a	- - - - ʒ a - g i n u kk a	15991
@@ -19423,13 +19423,13 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 13973	jitnu	NOMBRE_NAME	wí̵n	w i̵ n	- - - w i̵ n - -	15951
 14366	koreguaje	NOMBRE_NAME	mami	m a m i	m a m i - -	15941
 14782	páez	NOMBRE_NAME	jase	j a s e	j a s e	15981
-15222	kakua	NOMBRE_NAME	wĩ̵t⁴	w ĩ̵ t	- - - w ĩ̵ t - -	15951
+15222	kakua	NOMBRE_NAME	wĩ̵t⁴	w ĩ̵ t	- - - w ĩ̵ - t -	15951
 15674	witoto mi̵ni̵ca	NOMBRE_NAME	mámekɯ	m a m e k ɯ	m a m e k ɯ	15941
 16084	kogui	NOMBRE_NAME	axaʒúkka	a x a ʒ u kk a	a - x a ʒ u - kk a - - - -	15991
 16507	witoto ni̵pode	NOMBRE_NAME	mámekɯ	m a m e k ɯ	m a m e k ɯ	15941
 16966	miraña	NOMBRE_NAME	meme	m e m e	m e m e - -	15941
 17365	piratapuyo	NOMBRE_NAME	wãbẽ	w ã b ẽ	w ã b ẽ - -	15941
-17781	playero	NOMBRE_NAME	ɸiawi̵ní̵	ɸ i a w i̵ n i̵	ɸ i a w i̵ n - i̵	15951
+17781	playero	NOMBRE_NAME	ɸiawi̵ní̵	ɸ i a w i̵ n i̵	ɸ i a w i̵ n i̵ -	15951
 18204	witoto murui	NOMBRE_NAME	mamekɯ	m a m e k ɯ	m a m e k ɯ	15941
 18691	ocaina	NOMBRE_NAME	maam̥ɯ	m aa m̥ ɯ	m aa m̥ ɯ - -	15941
 19023	orejón	NOMBRE_NAME	bãbĩ	b ã b ĩ	b ã b ĩ - -	15941
@@ -19443,8 +19443,8 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 22402	embera Tadó	NOMBRE_NAME	tʰĩ̵	tʰ ĩ̵	tʰ ĩ̵ -	15947
 22791	tanimuca	NOMBRE_NAME	wãbẽã	w ã b ẽ ã	w ã b ẽ - ã	15941
 23150	tunebo central	NOMBRE_NAME	áhka	a h k a	a h k a - - - - - - - - -	15991
-23687	tsafiqui pila	NOMBRE_NAME	mumun	m u m u n	m u m u n -	15941
-24002	totoró	NOMBRE_NAME	mi̵iʃ	m i̵ i ʃ	- - - m i̵ i ʃ -	15951
+23687	tsafiqui pila	NOMBRE_NAME	mumun	m u m u n	- m u m u n - -	15951
+24002	totoró	NOMBRE_NAME	mi̵iʃ	m i̵ i ʃ	- - - m i̵ - i ʃ	15951
 24357	tuyuca	NOMBRE_NAME	wãbẽ́	w ã b ẽ	w ã b ẽ - -	15941
 24862	waimaja	NOMBRE_NAME	wãbẽ́	w ã b ẽ	w ã b ẽ - -	15941
 25329	wounaan	NOMBRE_NAME	tʰɯ̃ɾ	tʰ ɯ̃ ɾ	tʰ ɯ̃ ɾ	15947
@@ -25512,10 +25512,10 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 2962	bora	CAIMÁN_CAYMAN	niʔpa	n i ʔ p a	- n i ʔ - p a - -	3252
 2963	bora	CAIMÁN_CAYMAN	meʔtópa	m e ʔ t o p a	m e ʔ t o p a	3299
 3898	barí	CAIMÁN_CAYMAN	kaantərə	k aa n t ə r ə	k aa n t - ə r ə - -	73
-4202	bará	CAIMÁN_CAYMAN	i̵ho	i̵ h o	- i̵ - h o - - - - -	3278
+4202	bará	CAIMÁN_CAYMAN	i̵ho	i̵ h o	- i̵ - h o - - - - -	16
 4623	guahibo	CAIMÁN_CAYMAN	maxí̵nehe	m a x i̵ n e h e	m a - x i̵ n e h e	3260
 5132	barasana	CAIMÁN_CAYMAN	hea gi̵só	h e a	h e a	3258
-5487	cabiyarí	CAIMÁN_CAYMAN	kaaʧuri	k aa ʧ u r i	k aa - ʧ u r i - - -	3278
+5487	cabiyarí	CAIMÁN_CAYMAN	kaaʧuri	k aa ʧ u r i	k aa - ʧ u r i - - -	16
 5673	secoya	CAIMÁN_CAYMAN	pi̵ʔi̵	p i̵ ʔ i̵	p i̵ ʔ i̵	11872
 6035	cha'palaachi	CAIMÁN_CAYMAN	duniʃu	d u n i ʃ u	d u n i ʃ u	3257
 6740	cuiba	CAIMÁN_CAYMAN	maxí̵ne	m a x i̵ n e	m a - x i̵ n e - -	3260
@@ -25525,8 +25525,8 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 8358	guayabero	CAIMÁN_CAYMAN	mi̵akléh	m i̵ a k l e h	m i̵ a k - l e h -	3260
 8359	guayabero	CAIMÁN_CAYMAN	makléh	m a k l e h	m a - k - l e h -	3260
 8794	embera chamí	CAIMÁN_CAYMAN	babía	b a b i a	b a b i - a	3263
-9192	carapana	CAIMÁN_CAYMAN	í̵so	i̵ s o	- i̵ - s o - - - - -	3278
-9569	curripaco	CAIMÁN_CAYMAN	kaʧiri	k a ʧ i r i	k a - ʧ i - r i - -	3278
+9192	carapana	CAIMÁN_CAYMAN	í̵so	i̵ s o	- i̵ - s o - - - - -	16
+9569	curripaco	CAIMÁN_CAYMAN	kaʧiri	k a ʧ i r i	k a - ʧ i - r i - -	16
 9570	curripaco	CAIMÁN_CAYMAN	kaimán	k a i m a n	k a i m a n - - - - -	11887
 10309	catío	CAIMÁN_CAYMAN	kʰoɾé	kʰ o ɾ e	kʰ o ɾ e	3256
 10710	cubeo	CAIMÁN_CAYMAN	hiábi̵	h i a b i̵	( h i a - ) b i̵ - - - -	11872
@@ -25534,52 +25534,52 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 11144	muinane	CAIMÁN_CAYMAN	méédúba	m ee d u b a	m ee - d u b a	3299
 11673	desano	CAIMÁN_CAYMAN	diakẽ́	d i a k ẽ	d i a k ẽ -	3262
 12809	embera Darién	CAIMÁN_CAYMAN	kʰoɾé	kʰ o ɾ e	kʰ o ɾ e	3256
-13148	nukak	CAIMÁN_CAYMAN	ʧakun²de¹	ʧ a k u n d e	ʧ a - k u - n d e -	3278
+13148	nukak	CAIMÁN_CAYMAN	ʧakun²de¹	ʧ a k u n d e	ʧ a - k u - n d e -	16
 13483	jupda	CAIMÁN_CAYMAN	deh hũh	d e h	d e h	3271
 13794	jitnu	CAIMÁN_CAYMAN	makné	m a k n e	m a - k - n e - -	3260
 13795	jitnu	CAIMÁN_CAYMAN	maknéh	m a k n e h	m a - k - n e h -	3260
 14161	koreguaje	CAIMÁN_CAYMAN	okʰoroʤe	o kʰ o r o ʤ e	o kʰ o r o ʤ e	3274
 15010	kakua	CAIMÁN_CAYMAN	wĩ̵w⁴	w ĩ̵ w	w ĩ̵ w	3272
 15446	witoto mi̵ni̵ca	CAIMÁN_CAYMAN	θéema	θ ee m a	θ ee m a	3299
-15447	witoto mi̵ni̵ca	CAIMÁN_CAYMAN	θɯkɯ́naɯma	θ ɯ k ɯ n a ɯ m a	θ ɯ k ɯ n a ɯ m a	3300
+15447	witoto mi̵ni̵ca	CAIMÁN_CAYMAN	θɯkɯ́naɯma	θ ɯ k ɯ n a ɯ m a	θ ɯ k ɯ n a ɯ m a	94
 15891	kogui	CAIMÁN_CAYMAN	kaimánu	k a i m a n u	k a i m a n u - - - -	11887
 16287	witoto ni̵pode	CAIMÁN_CAYMAN	téema	t ee m a	t ee m a	3299
-16288	witoto ni̵pode	CAIMÁN_CAYMAN	tɯkɯ́naɯma	t ɯ k ɯ n a ɯ m a	t ɯ k ɯ n a ɯ m a	3300
+16288	witoto ni̵pode	CAIMÁN_CAYMAN	tɯkɯ́naɯma	t ɯ k ɯ n a ɯ m a	t ɯ k ɯ n a ɯ m a	94
 16756	miraña	CAIMÁN_CAYMAN	meʔtópa	m e ʔ t o p a	m e ʔ t o p a	3299
-17180	piratapuyo	CAIMÁN_CAYMAN	i̵so	i̵ s o	- i̵ - s o - - - - -	3278
+17180	piratapuyo	CAIMÁN_CAYMAN	i̵so	i̵ s o	- i̵ - s o - - - - -	16
 17582	playero	CAIMÁN_CAYMAN	maxí̵nehe	m a x i̵ n e h e	m a - x i̵ n e h e	3260
-17999	witoto murui	CAIMÁN_CAYMAN	naɯma	n a ɯ m a	n a ɯ m a	3300
-18000	witoto murui	CAIMÁN_CAYMAN	θɯkɯnaɯma	θ ɯ k ɯ n a ɯ m a	θ ɯ k ɯ n a ɯ m a	3300
+17999	witoto murui	CAIMÁN_CAYMAN	naɯma	n a ɯ m a	- - - - n a ɯ m a	94
+18000	witoto murui	CAIMÁN_CAYMAN	θɯkɯnaɯma	θ ɯ k ɯ n a ɯ m a	θ ɯ k ɯ n a ɯ m a	94
 18440	ocaina	CAIMÁN_CAYMAN	hõʔṍṍma	h õ ʔ õõ m a	h õ ʔ õõ m a	3279
 18891	orejón	CAIMÁN_CAYMAN	jũkabi̵	j ũ k a b i̵	( j ũ k a ) b i̵ - - - -	11872
 19204	piapoco	CAIMÁN_CAYMAN	ʧamàna	ʧ a m a n a	ʧ a - m a n a - - - -	11887
-19205	piapoco	CAIMÁN_CAYMAN	kaʧuíri	k a ʧ u i r i	k a - ʧ u i r i - -	3278
+19205	piapoco	CAIMÁN_CAYMAN	kaʧuíri	k a ʧ u i r i	k a - ʧ u i r i - -	16
 19631	puinave	CAIMÁN_CAYMAN	wow	w o w	w o w	3272
 19632	puinave	CAIMÁN_CAYMAN	hãmnã	h ã m n ã	h ã - m - n ã - - - -	11887
 19983	resígaro	CAIMÁN_CAYMAN	pegíinú	p e g ii n u	p e g ii n u	3285
 20335	sáliba	CAIMÁN_CAYMAN	kupo	k u p o	k u p o	3289
-20336	sáliba	CAIMÁN_CAYMAN	kuʧikuʧi	k u ʧ i k u ʧ i	k u - ʧ i - k u ʧ i	3278
+20336	sáliba	CAIMÁN_CAYMAN	kuʧikuʧi	k u ʧ i k u ʧ i	k u - ʧ i - k u ʧ i	16
 20337	sáliba	CAIMÁN_CAYMAN	kupe	k u p e	k u p e	3289
 20698	siona	CAIMÁN_CAYMAN	bi̵ʔi̵	b i̵ ʔ i̵	( - - - - ) b i̵ ʔ i̵ - -	11872
 21059	siriano	CAIMÁN_CAYMAN	diákẽ́ã	d i a k ẽ ã	d i a k ẽ ã	3262
-21440	tatuyo	CAIMÁN_CAYMAN	í̵ho	i̵ h o	- i̵ - h o - - - - -	3278
-21817	tucano	CAIMÁN_CAYMAN	i̵só	i̵ s o	- i̵ - s o - - - - -	3278
+21440	tatuyo	CAIMÁN_CAYMAN	í̵ho	i̵ h o	- i̵ - h o - - - - -	16
+21817	tucano	CAIMÁN_CAYMAN	i̵só	i̵ s o	- i̵ - s o - - - - -	16
 22219	embera Tadó	CAIMÁN_CAYMAN	kʰóɾe	kʰ o ɾ e	kʰ o ɾ e	3256
 22220	embera Tadó	CAIMÁN_CAYMAN	babijá	b a b i j a	b a b i j a	3263
 22221	embera Tadó	CAIMÁN_CAYMAN	ṍerõ	õ e r õ	õ e r õ	3320
-22599	tanimuca	CAIMÁN_CAYMAN	kahujaia	k a h u j a i a	k a - h u j a i a -	3278
-23292	tariano	CAIMÁN_CAYMAN	kaʧira	k a ʧ i r a	k a - ʧ i - r a - -	3278
-23293	tariano	CAIMÁN_CAYMAN	káaʧiri	k aa ʧ i r i	k aa - ʧ i - r i - -	3278
+22599	tanimuca	CAIMÁN_CAYMAN	kahujaia	k a h u j a i a	k a - h u j a i a -	16
+23292	tariano	CAIMÁN_CAYMAN	kaʧira	k a ʧ i r a	k a - ʧ i - r a - -	16
+23293	tariano	CAIMÁN_CAYMAN	káaʧiri	k aa ʧ i r i	k aa - ʧ i - r i - -	16
 23513	tsafiqui pila	CAIMÁN_CAYMAN	mate	m a t e	m a t e	3299
-24177	tuyuca	CAIMÁN_CAYMAN	i̵só	i̵ s o	- i̵ - s o - - - - -	3278
-24594	waimaja	CAIMÁN_CAYMAN	i̵hó	i̵ h o	- i̵ - h o - - - - -	3278
-24595	waimaja	CAIMÁN_CAYMAN	í̵hó	i̵ h o	- i̵ - h o - - - - -	3278
+24177	tuyuca	CAIMÁN_CAYMAN	i̵só	i̵ s o	- i̵ - s o - - - - -	16
+24594	waimaja	CAIMÁN_CAYMAN	i̵hó	i̵ h o	- i̵ - h o - - - - -	16
+24595	waimaja	CAIMÁN_CAYMAN	í̵hó	i̵ h o	- i̵ - h o - - - - -	16
 25114	wounaan	CAIMÁN_CAYMAN	kʰaiman	kʰ a i m a n	kʰ a i m a n - - - - -	11887
-25556	wanano	CAIMÁN_CAYMAN	so	s o	- - - s o - - - - -	3278
-25972	wayuu	CAIMÁN_CAYMAN	kajúuʃi	k a j uu ʃ i	k a - j uu - ʃ i - -	3278
+25556	wanano	CAIMÁN_CAYMAN	so	s o	- - - s o - - - - -	16
+25972	wayuu	CAIMÁN_CAYMAN	kajúuʃi	k a j uu ʃ i	k a - j uu - ʃ i - -	16
 26505	yucuna	CAIMÁN_CAYMAN	lánáwaru	l a n a w a r u	l a n a w a r u	3303
 26890	yukpa	CAIMÁN_CAYMAN	aréje	a r e j e	a r e j e	3304
-27248	yurutí	CAIMÁN_CAYMAN	í̵so	i̵ s o	- i̵ - s o - - - - -	3278
+27248	yurutí	CAIMÁN_CAYMAN	í̵so	i̵ s o	- i̵ - s o - - - - -	16
 1363	achagua	IGUANA_IGUANA	ʧamánali	ʧ a m a n a l i	ʧ a - m a n a - - l i	11887
 1754	epena Saija	IGUANA_IGUANA	opʰóo	o pʰ oo	- o pʰ oo -	11841
 2146	awa	IGUANA_IGUANA	piainti̵	p i a i n t i̵	p i a i n t i̵	11835
@@ -25637,13 +25637,13 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 25973	wayuu	IGUANA_IGUANA	iwána	i w a n a	i w a n a	17
 26891	yukpa	IGUANA_IGUANA	ajámaka	a j a m a k a	a j a m a k a	11887
 27249	yurutí	IGUANA_IGUANA	juaso	j u a s o	j u a s o -	11847
-1386	achagua	GUACAMAYO_MACAW	éeta	ee t a	- - - ee - t a - - - -	10565
+1386	achagua	GUACAMAYO_MACAW	éeta	ee t a	ee - - t a	89
 1776	epena Saija	GUACAMAYO_MACAW	pagáɾa	p a g a ɾ a	- - p a g a - - ɾ a - -	10590
 2159	awa	GUACAMAYO_MACAW	wakamaja	w a k a m a j a	w a k a m a j a	10569
 2550	epena basurudó	GUACAMAYO_MACAW	paaɾá	p aa ɾ a	- - p aa - - - - ɾ a - -	10590
 2551	epena basurudó	GUACAMAYO_MACAW	pagaɾá	p a g a ɾ a	- - p a g a - - ɾ a - -	10590
 3009	bora	GUACAMAYO_MACAW	í̵í̵βaá	i̵i̵ β aa	- i̵i̵ β aa	26342
-3010	bora	GUACAMAYO_MACAW	ínʲaʔa	i nʲ a ʔ a	i nʲ a - ʔ a -	10552
+3010	bora	GUACAMAYO_MACAW	ínʲaʔa	i nʲ a ʔ a	- - - i - nʲ a ʔ a - -	90
 3907	barí	GUACAMAYO_MACAW	kajdənə	k a j d ə n ə	k a j d ə n ə	10530
 4225	bará	GUACAMAYO_MACAW	bãã	b ãã	- - - b ãã - -	10528
 4646	guahibo	GUACAMAYO_MACAW	má:ha	m a: h a	- - - m a: h a	10528
@@ -25659,12 +25659,12 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 8814	embera chamí	GUACAMAYO_MACAW	báaɾa	b aa ɾ a	- - b aa - - - - ɾ a - -	10590
 9210	carapana	GUACAMAYO_MACAW	bãã	b ãã	- - - b ãã - -	10528
 9587	curripaco	GUACAMAYO_MACAW	adaɾo	a d a ɾ o	- - - a - d a - - ɾ o	10565
-9935	ika	GUACAMAYO_MACAW	maráwi̵	m a r a w i̵	- - m a r a w i̵ - - - -	10590
+9935	ika	GUACAMAYO_MACAW	maráwi̵	m a r a w i̵	- - m a r a w i̵ - - - -	84
 10327	catío	GUACAMAYO_MACAW	bagaɾá	b a g a ɾ a	- - b a g a - - ɾ a - -	10590
 10731	cubeo	GUACAMAYO_MACAW	bã́	b ã	- - - b ã - -	10528
 11174	muinane	GUACAMAYO_MACAW	xéeβa	x ee β a	x ee β a	26342
-11175	muinane	GUACAMAYO_MACAW	ínóʔai	i n o ʔ a i	i n o - ʔ a i	10552
-11176	muinane	GUACAMAYO_MACAW	ééréda	ee r e d a	- - - ee - r e - - d a	10565
+11175	muinane	GUACAMAYO_MACAW	ínóʔai	i n o ʔ a i	- - - i - n o ʔ a - i	90
+11176	muinane	GUACAMAYO_MACAW	ééréda	ee r e d a	ee r e d a	89
 11691	desano	GUACAMAYO_MACAW	bãhã́	b ã h ã	- - - b ã h ã	10528
 12071	inga	GUACAMAYO_MACAW	wakamáju	w a k a m a j u	w a k a m a j u	10569
 12824	embera Darién	GUACAMAYO_MACAW	pagaɾá	p a g a ɾ a	- - p a g a - - ɾ a - -	10590
@@ -25678,22 +25678,22 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 15908	kogui	GUACAMAYO_MACAW	ʃaxálda	ʃ a x a l d a	ʃ - - a x a - l d a - -	10590
 16315	witoto ni̵pode	GUACAMAYO_MACAW	áβa	a β a	- a β a	26342
 16776	miraña	GUACAMAYO_MACAW	í̵í̵βaá	i̵i̵ β aa	- i̵i̵ β aa	26342
-16777	miraña	GUACAMAYO_MACAW	íɲaʔa	i ɲ a ʔ a	i ɲ a - ʔ a -	10552
+16777	miraña	GUACAMAYO_MACAW	íɲaʔa	i ɲ a ʔ a	- - - i - ɲ a ʔ a - -	90
 17198	piratapuyo	GUACAMAYO_MACAW	bãhã	b ã h ã	- - - b ã h ã	10528
 17599	playero	GUACAMAYO_MACAW	mã́ha	m ã h a	- - - m ã h a	10528
 18021	witoto murui	GUACAMAYO_MACAW	eɸa	e ɸ a	- e ɸ a	26342
-18470	ocaina	GUACAMAYO_MACAW	ɸaaro	ɸ aa r o	ɸ aa r o	26342
-18471	ocaina	GUACAMAYO_MACAW	kɯ́ɯ́ram̥a	k ɯɯ r a m̥ a	- - - - k ɯɯ - - r a m̥ a	10590
+18470	ocaina	GUACAMAYO_MACAW	ɸaaro	ɸ aa r o	ɸ aa r o	88
+18471	ocaina	GUACAMAYO_MACAW	kɯ́ɯ́ram̥a	k ɯɯ r a m̥ a	- - - - k ɯɯ - - r a m̥ a	86
 18903	orejón	GUACAMAYO_MACAW	bã	b ã	- - - b ã - -	10528
 19228	piapoco	GUACAMAYO_MACAW	atàlu	a t a l u	- - - a - t a - - l u	10565
-19229	piapoco	GUACAMAYO_MACAW	éda	e d a	- - - e - d a - - - -	10565
-19998	resígaro	GUACAMAYO_MACAW	anáadó	a n aa d o	- - - a n - aa - - d o	10565
+19229	piapoco	GUACAMAYO_MACAW	éda	e d a	e - - d a	89
+19998	resígaro	GUACAMAYO_MACAW	anáadó	a n aa d o	- - - a - n aa - - d o	10565
 20360	sáliba	GUACAMAYO_MACAW	wakamaiʔʤa	w a k a m a i ʔ ʤ a	w a k a m a i ʔ ʤ a	10569
 20714	siona	GUACAMAYO_MACAW	mã	m ã	- - - m ã - -	10528
 21076	siriano	GUACAMAYO_MACAW	bãhã́	b ã h ã	- - - b ã h ã	10528
 21455	tatuyo	GUACAMAYO_MACAW	bãã	b ãã	- - - b ãã - -	10528
 21835	tucano	GUACAMAYO_MACAW	bãhã́	b ã h ã	- - - b ã h ã	10528
-22620	tanimuca	GUACAMAYO_MACAW	haʔuraka	h a ʔ u r a k a	h a ʔ u - r a - - k a	10565
+22620	tanimuca	GUACAMAYO_MACAW	haʔuraka	h a ʔ u r a k a	h a ʔ u - r a - - k a	87
 23300	tariano	GUACAMAYO_MACAW	ʔáandaru	ʔ aa n d a r u	- - ʔ aa n d a - - r u	10565
 23301	tariano	GUACAMAYO_MACAW	ʔándaru	ʔ a n d a r u	- - ʔ a n d a - - r u	10565
 23529	tsafiqui pila	GUACAMAYO_MACAW	wero	w e r o	w e r o	10542
@@ -26392,10 +26392,10 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 3099	bora	CHONTA_CHONTA PALM	mééméʔeʧííʔjo	m ee m e ʔ e ʧ ii ʔ j o	- - m ee m e ʔ e ʧ ii ʔ j o - - - -	4984
 3659	giacone	CHONTA_CHONTA PALM	piípiri	p ii p i r i	p ii p i r i	4966
 3938	barí	CHONTA_CHONTA PALM	ʧikaanə	ʧ i k aa n ə	ʧ i k aa n ə	4958
-4272	bará	CHONTA_CHONTA PALM	ĩ̵déjõ	ĩ̵ d e j õ	ĩ̵ d e - j õ	5003
+4272	bará	CHONTA_CHONTA PALM	ĩ̵déjõ	ĩ̵ d e j õ	ĩ̵ d e - j õ - - - - - -	5003
 5012	guahibo	CHONTA_CHONTA PALM	mísiboto	m i s i b o t o	- - - - m i - - s i - - - b o t o	4984
 5013	guahibo	CHONTA_CHONTA PALM	hipíriboto	h i p i r i b o t o	h i p i r i b o t o	4966
-5204	barasana	CHONTA_CHONTA PALM	ĩ̵dẽjõ	ĩ̵ d ẽ j õ	ĩ̵ d ẽ j õ	5003
+5204	barasana	CHONTA_CHONTA PALM	ĩ̵dẽjõ	ĩ̵ d ẽ j õ	ĩ̵ d ẽ j õ - - - - - - -	5003
 5732	secoya	CHONTA_CHONTA PALM	oda	o d a	o d a	4981
 6091	cha'palaachi	CHONTA_CHONTA PALM	kanuʧi	k a n u ʧ i	k a n u ʧ i	4963
 6827	cuiba	CHONTA_CHONTA PALM	miʃibóto	m i ʃ i b o t o	- - - - m i - - ʃ i - - - b o t o	4984
@@ -26403,47 +26403,47 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 7642	macuna	CHONTA_CHONTA PALM	hatajõ	h a t a j õ	h a t a j õ	4981
 8444	guayabero	CHONTA_CHONTA PALM	wibúxtot	w i b u x t o t	- w i - b u x t o t	4976
 8861	embera chamí	CHONTA_CHONTA PALM	méme	m e m e	- - m e m e - - - - - - - - - - -	4984
-9255	carapana	CHONTA_CHONTA PALM	ĩ̵dẽjõ	ĩ̵ d ẽ j õ	ĩ̵ d ẽ j õ	5003
+9255	carapana	CHONTA_CHONTA PALM	ĩ̵dẽjõ	ĩ̵ d ẽ j õ	ĩ̵ d ẽ j õ - - - - - - -	5003
 9632	curripaco	CHONTA_CHONTA PALM	pípiri	p i p i r i	p i p i r i	4966
 10376	catío	CHONTA_CHONTA PALM	meme	m e m e	- - m e m e - - - - - - - - - - -	4984
-10780	cubeo	CHONTA_CHONTA PALM	ĩ̵rẽ́jĩ̵	ĩ̵ r ẽ j ĩ̵	ĩ̵ r ẽ j ĩ̵	5003
+10780	cubeo	CHONTA_CHONTA PALM	ĩ̵rẽ́jĩ̵	ĩ̵ r ẽ j ĩ̵	ĩ̵ r ẽ j ĩ̵ - - - - - - -	5003
 11247	muinane	CHONTA_CHONTA PALM	móomo	m oo m o	- - m oo m o - - - - - - - - - - -	4984
-11739	desano	CHONTA_CHONTA PALM	ĩ̵rĩjũ	ĩ̵ r ĩ j ũ	ĩ̵ r ĩ j ũ	5003
+11739	desano	CHONTA_CHONTA PALM	ĩ̵rĩjũ	ĩ̵ r ĩ j ũ	ĩ̵ r ĩ j ũ - - - - - - -	5003
 12861	embera Darién	CHONTA_CHONTA PALM	sãsãgará	s ã s ã g a r a	- - - s ã s ã g a r a	27051
 13196	nukak	CHONTA_CHONTA PALM	hũɲũ¹ni⁴	h ũ ɲ ũ n i	h ũ ɲ ũ n i	4983
 13539	jupda	CHONTA_CHONTA PALM	ʧi̵w	ʧ i̵ w	ʧ i̵ w	5007
 13862	jitnu	CHONTA_CHONTA PALM	kuérbot	k u e r b o t	k u e r b o - t - -	4976
-14229	koreguaje	CHONTA_CHONTA PALM	i̵neɲi̵	i̵ n e ɲ i̵	i̵ n e ɲ i̵	5003
+14229	koreguaje	CHONTA_CHONTA PALM	i̵neɲi̵	i̵ n e ɲ i̵	i̵ n e ɲ i̵ - - - - - - -	5003
 14644	páez	CHONTA_CHONTA PALM	ʧuda	ʧ u d a	ʧ u - d a	5007
-15080	kakua	CHONTA_CHONTA PALM	bĩ̵daʔ³ dãʔ⁴	b ĩ̵ d a ʔ	b ĩ̵ d a ʔ	4978
+15080	kakua	CHONTA_CHONTA PALM	bĩ̵daʔ³ dãʔ⁴	b ĩ̵ d a ʔ	- - b ĩ̵ d a ʔ - - - - - - - - - -	4984
 15533	witoto mi̵ni̵ca	CHONTA_CHONTA PALM	óɸegoʤɯ	o ɸ e g o ʤ ɯ	o ɸ e g o ʤ ɯ	5004
 15957	kogui	CHONTA_CHONTA PALM	núldi	n u l d i	n u l d i	4955
-16371	witoto ni̵pode	CHONTA_CHONTA PALM	néegoɯ	n ee g o ɯ	n ee g o ɯ	5003
-17244	piratapuyo	CHONTA_CHONTA PALM	ĩ̵rẽjo	ĩ̵ r ẽ j o	ĩ̵ r ẽ j o -	5003
+16371	witoto ni̵pode	CHONTA_CHONTA PALM	néegoɯ	n ee g o ɯ	- n ee g o ɯ - - - - - -	5003
+17244	piratapuyo	CHONTA_CHONTA PALM	ĩ̵rẽjo	ĩ̵ r ẽ j o	ĩ̵ r ẽ j o - - - - - - -	5003
 18070	witoto murui	CHONTA_CHONTA PALM	oɸegoʤɯ	o ɸ e g o ʤ ɯ	o ɸ e g o ʤ ɯ	5004
-18531	ocaina	CHONTA_CHONTA PALM	hamiiɲ̥a	h a m ii ɲ̥ a	h a m ii ɲ̥ a	4984
-18944	orejón	CHONTA_CHONTA PALM	ĩ̵dẽ	ĩ̵ d ẽ	ĩ̵ d ẽ - - -	5003
+18531	ocaina	CHONTA_CHONTA PALM	hamiiɲ̥a	h a m ii ɲ̥ a	h a m ii ɲ̥ a - - - - - - - - - - -	4984
+18944	orejón	CHONTA_CHONTA PALM	ĩ̵dẽ	ĩ̵ d ẽ	ĩ̵ d ẽ - - - - - - - - -	5003
 19278	piapoco	CHONTA_CHONTA PALM	pipìri	p i p i r i	p i p i r i	4966
 19690	puinave	CHONTA_CHONTA PALM	mõn	m õ n	- - m õ n - - - - - - - - - - - -	4984
 20044	resígaro	CHONTA_CHONTA PALM	ponaámáʤiiʔó	p o n aa m a ʤ ii ʔ o	p o n aa m a - - ʤ ii ʔ - o - - - -	4984
-20405	sáliba	CHONTA_CHONTA PALM	nen	n e n	n e n	5003
-20764	siona	CHONTA_CHONTA PALM	ĩ̵nẽ	ĩ̵ n ẽ	ĩ̵ n ẽ	5003
-21125	siriano	CHONTA_CHONTA PALM	ĩ̵rĩ̵́jṹ	ĩ̵ r ĩ̵ j ũ	ĩ̵ r ĩ̵ j ũ	5003
-21501	tatuyo	CHONTA_CHONTA PALM	ĩ̵́déjṍ	ĩ̵ d e j õ	ĩ̵ d e - j õ	5003
-21885	tucano	CHONTA_CHONTA PALM	ĩ̵rẽ́jõ	ĩ̵ r ẽ j õ	ĩ̵ r ẽ j õ	5003
+20405	sáliba	CHONTA_CHONTA PALM	nen	n e n	- n e n - - - - - - - -	5003
+20764	siona	CHONTA_CHONTA PALM	ĩ̵nẽ	ĩ̵ n ẽ	ĩ̵ n ẽ - - - - - - - - -	5003
+21125	siriano	CHONTA_CHONTA PALM	ĩ̵rĩ̵́jṹ	ĩ̵ r ĩ̵ j ũ	ĩ̵ r ĩ̵ j ũ - - - - - - -	5003
+21501	tatuyo	CHONTA_CHONTA PALM	ĩ̵́déjṍ	ĩ̵ d e j õ	ĩ̵ d e - j õ - - - - - -	5003
+21885	tucano	CHONTA_CHONTA PALM	ĩ̵rẽ́jõ	ĩ̵ r ẽ j õ	ĩ̵ r ẽ j õ - - - - - - -	5003
 22282	embera Tadó	CHONTA_CHONTA PALM	méme	m e m e	- - m e m e - - - - - - - - - - -	4984
 22666	tanimuca	CHONTA_CHONTA PALM	ĩrẽritajũkia	ĩ r ẽ r i t a j ũ k i a	ĩ r ẽ r i t a j ũ k i a	5003
-22667	tanimuca	CHONTA_CHONTA PALM	ĩrẽã	ĩ r ẽ ã	ĩ r ẽ ã	5003
+22667	tanimuca	CHONTA_CHONTA PALM	ĩrẽã	ĩ r ẽ ã	ĩ r ẽ ã - - - - - - - -	5003
 23034	tunebo central	CHONTA_CHONTA PALM	bí̵bra	b i̵ b r a	b i̵ b - r a	4966
 23035	tunebo central	CHONTA_CHONTA PALM	bí̵bira	b i̵ b i r a	b i̵ b i r a	4966
-23574	tsafiqui pila	CHONTA_CHONTA PALM	bintsala	b i n ts a l a	b i n ts a l a - - - -	27051
+23574	tsafiqui pila	CHONTA_CHONTA PALM	bintsala	b i n ts a l a	b i n ts a l a - - - -	91
 23897	totoró	CHONTA_CHONTA PALM	ʧunta	ʧ u n t a	ʧ u n t a	27052
-24241	tuyuca	CHONTA_CHONTA PALM	ĩ̵dẽ́wõ	ĩ̵ d ẽ w õ	ĩ̵ d ẽ w õ	5003
-24680	waimaja	CHONTA_CHONTA PALM	ĩ̵dẽjõ	ĩ̵ d ẽ j õ	ĩ̵ d ẽ j õ	5003
+24241	tuyuca	CHONTA_CHONTA PALM	ĩ̵dẽ́wõ	ĩ̵ d ẽ w õ	ĩ̵ d ẽ w õ - - - - - - -	5003
+24680	waimaja	CHONTA_CHONTA PALM	ĩ̵dẽjõ	ĩ̵ d ẽ j õ	ĩ̵ d ẽ j õ - - - - - - -	5003
 25188	wounaan	CHONTA_CHONTA PALM	ʧor	ʧ o r	ʧ o r	5007
-25622	wanano	CHONTA_CHONTA PALM	ĩ̵rẽõ	ĩ̵ r ẽ õ	ĩ̵ r ẽ õ	5003
+25622	wanano	CHONTA_CHONTA PALM	ĩ̵rẽõ	ĩ̵ r ẽ õ	ĩ̵ r ẽ õ - - - - - - - -	5003
 26586	yucuna	CHONTA_CHONTA PALM	pipirí	p i p i r i	p i p i r i	4966
-27311	yurutí	CHONTA_CHONTA PALM	ĩ̵́dẽwõ	ĩ̵ d ẽ w õ	ĩ̵ d ẽ w õ	5003
+27311	yurutí	CHONTA_CHONTA PALM	ĩ̵́dẽwõ	ĩ̵ d ẽ w õ	ĩ̵ d ẽ w õ - - - - - - -	5003
 1856	epena Saija	VUESTRAS MANOS_YOUR (PLUR.) HANDS	pã́ɾã húa	p ã ɾ ã	p ã ɾ ã	25662
 2238	awa	VUESTRAS MANOS_YOUR (PLUR.) HANDS	u ʧti̵	u	u	25647
 3145	bora	VUESTRAS MANOS_YOUR (PLUR.) HANDS	amɯ́ʔáʔóxtsʰi̵ne	a m ɯ ʔ a ʔ o x tsʰ i̵ n e	a m ɯ ʔ a - ʔ o x tsʰ i̵ n e	25650
@@ -26724,3 +26724,25 @@ ID	DOCULECT	CONCEPT	COUNTERPART	TOKENS	ALIGNMENT	COGID
 26654	yucuna	NUBES DE TORMENTA_STORM CLOUDS	húuni suwákaʔala	h uu n i #s u w a k a ʔ a l a	h uu n i #s u w a k a ʔ a l a	16238
 26655	yucuna	NUBES DE TORMENTA_STORM CLOUDS	rahúwaʔaka	r a h u w a ʔ a k a	r a h u w a ʔ a k a	16242
 27381	yurutí	NUBES DE TORMENTA_STORM CLOUDS	ókotuuro	o k o t uu r o	o k o t uu r o	26651
+#@highlight=TOKENS|ALIGNMENT
+#@sampa=TOKENS
+#@pinyin=
+#@css=menu:show|database:hide
+#@basics=COGID|CONCEPT|COUNTERPART|DOCULECT|TOKENS
+#@_selected_doculects=kamsá|achagua|epena Saija|awa|epena basurudó|bora|giacone|barí|bará|guahibo|barasana|cabiyarí|secoya|cha'palaachi|guambiano|cuiba|carijona|macuna|chimila|guayabero|embera chamí|carapana|curripaco|ika|catío|cubeo|muinane|desano|inga|dí̵mi̵na|embera Darién|nukak|jupda|jitnu|koreguaje|páez|kakua|witoto mi̵ni̵ca|kogui|witoto ni̵pode|miraña|piratapuyo|playero|witoto murui|ocaina|orejón|piapoco|puinave|resígaro|sáliba|siona|siriano|tatuyo|tucano|embera Tadó|tanimuca|tunebo central|tariano|tsafiqui pila|totoró|tuyuca|waimaja|wounaan|wanano|wayuu|yucuna|yukpa|yurutí|baniva
+#@_selected_concepts=TUCÁN, PINSHA_TOUCAN
+#@sorted_taxa=kamsá|achagua|epena Saija|awa|epena basurudó|bora|giacone|barí|bará|guahibo|barasana|cabiyarí|secoya|cha'palaachi|guambiano|cuiba|carijona|macuna|chimila|guayabero|embera chamí|carapana|curripaco|ika|catío|cubeo|muinane|desano|inga|dí̵mi̵na|embera Darién|nukak|jupda|jitnu|koreguaje|páez|kakua|witoto mi̵ni̵ca|kogui|witoto ni̵pode|miraña|piratapuyo|playero|witoto murui|ocaina|orejón|piapoco|puinave|resígaro|sáliba|siona|siriano|tatuyo|tucano|embera Tadó|tanimuca|tunebo central|tariano|tsafiqui pila|totoró|tuyuca|waimaja|wounaan|wanano|wayuu|yucuna|yukpa|yurutí|baniva
+#@sorted_concepts=LENGUA_TONGUE|BOCA_MOUTH|LABIO_LIP|DIENTE_TOOTH|NARIZ_NOSE|OJO_EYE|OREJA_EAR|CABEZA_HEAD|FRENTE_FOREHEAD|CABELLO_HAIR|MENTÓN_CHIN|BARBA_BEARD|CUELLO_NECK|PECHO_CHEST|TETA, SENO, PECHO_WOMAN’S BREASTS|VIENTRE, ABDOMEN_ABDOMEN, BELLY|ESPALDA_BACK|HOMBRO_SHOULDER|BRAZO_ARM|CODO_ELBOW|MANO_HAND|DEDO DE LA MANO_FINGER|UÑA_FINGERNAIL|PIERNA_LEG|RODILLA_KNEE|ESPINILLA_SHIN|PIE_FOOT|DEDO DEL PIE_TOE|PIEL_SKIN|HUESO_BONE|SANGRE_BLOOD|CORAZÓN_HEART|PULMONES_LUNGS|PENE_PENIS|VULVA_VULVA|HOMBRE_MAN|VARÓN_MALE|MUJER_WOMAN|GENTE_PEOPLE|MARIDO, ESPOSO_HUSBAND|ESPOSA_WIFE|PADRE_FATHER|MADRE_MOTHER|CRIATURA_BABY, INFANT|VIEJO_OLD MAN|AGUA_WATER|RÍO_RIVER|LAGO_LAKE|PANTANO_SWAMP|FUENTE, OJO DE AGUA_SPRING OF WATER|CAÍDA DE AGUA_WATERFALL|CATARATA, RAUDAL_RAPIDS|CANDELA, FUEGO_FIRE|CENIZA_ASH|CARBÓN_CHARCOAL|HUMO_SMOKE|LEÑA_FIREWOOD|CIELO_SKY|LLUVIA_RAIN|VIENTO_WIND|SOL_SUN|LUNA_MOON|ESTRELLA_STAR|DÍA_DAY|NOCHE_NIGHT|TRUENO_THUNDER|RELÁMPAGO_LIGHTNING|ARCO IRIS_RAINBOW|TIERRA_EARTH|PIEDRA_STONE|ARENA_SAND|CASA_HOUSE|TECHO_ROOF|PUERTA_DOORWAY|BANCO_SEAT, STOOL|ESTERA_MAT|HAMACA_HAMMOCK|CATRE, CAMA DE BARBACOA_BED|OLLA_COOKING POT|ROZA, SEMENTERA_CULTIVATED CLEARING|CASERÍO_VILLAGE|CAMINO, SENDERO, TROCHA_PATH, TRAIL|RED_FISH NET|ANZUELO_FISH HOOK|HACHA_AXE|CUCHILLO_KNIFE|CANOA_CANOE|REMO_PADDLE|PORRA, MACANA_CLUB|LANZA_SPEAR|ARCO_BOW|FLECHA_ARROW|CERBATANA_BLOWGUN|DANTA_TAPIR|TIGRE_JAGUAR|LEÓN, PUMA_PUMA|ARMADILLO, QUINQUINCHO, CHUPA_ARMADILLO|PERRO_DOG|VENADO_DEER|MURCIÉLAGO_BAT|NUTRIA, PERRO DE AGUA_OTTER|CAPUCHÍN, MACHÍN_CEBUS MONKEY|PACA, GUAGUA, MAJAS_PACA|TORTUGA_TORTOISE|SAÍNO_COLLARED PECCARY|AGUTÍ_AGOUTI|RATA_RAT|GATO_CAT|RATÓN_MOUSE|COLA_TAIL|SERPIENTE, CULEBRA_SNAKE|MAPANA_ANACONDA, WATER BOA|SAPO_TOAD|PÁJARO_BIRD|PICAFLOR, COLIBRÍ_HUMMINGBIRD|TUCÁN, PINSHA_TOUCAN|LORO_PARROT|GALLINAZO_BUZZARD|PAYO_CURASSOW|LECHUZA, BUHO_OWL|PAVA DE MONTE_GUAN|GALLINA_HEN|PESCADO_FISH|ABEJA_BEE|MOSCA_FLY|PULGA_FLEA|PIOJO_LOUSE|ZANCUDO_MOSQUITO|HORMIGA_ANT|ARAÑA_SPIDER|NIGUA, PIGUE_CHIGGOE, JIGGER FLEA|MONTE_BUSH|PAJONAL, SABANA_OPEN GRASSLAND|CERRO, LOMA_HILL|ÁRBOL_TREE|HOJA_LEAF|HOJA DE ÁRBOL_TREE LEAF|FLOR_FLOWER|FRUTA_FRUIT|RAÍZ_ROOT|SEMILLA_SEED|PALO_STICK|HIERBA_GRASS|MAÍZ_CORN, MAIZE|YUCA_MANIOC|TABACO_TOBACCO|ALGODÓN_COTTON|CALABAZO PORO_GOURD|ÑAME_YAM|CAMOTE, BATATA_SWEET POTATO|ACHIOTE, BIJA_ACHIOTE|AJÍ_CHILI PEPPER|AJAHUASCA, JAJÉ_BANISTERIUM|PLÁTANO_PLANTAIN|CAÑA BRAVA_CANE|SAL_SALT|CHICHA, MASATO_CHICHA|UNO_ONE|DOS_TWO|TRES_THREE|CUATRO_FOUR|CINCO_FIVE|DIEZ_TEN|PRIMERO_FIRST|ÚLTIMO_LAST|SONAJERO, MARACA_RATTLE|TAMBOR_DRUM|CUSHMA_CUSHMA|OREJERA, ARETE_EAR ORNAMENT|MÁSCARA_MASK|CURANDERO_SHAMAN, FOLK HEALER|CACIQUE, CURACA, CAPITÁN_CHIEF|YO_I|USTED_YOU (SINGULAR)|ÉL_HE|ELLA_SHE|ELLO_IT|NOSOTROS_WE|USTEDES_YOU (PLURAL)|ELLOS_THEY|MI MANO_MY HAND|TU MANO_YOUR HAND|SU MANO_HIS HAND|NUESTRAS MANOS_OUR HANDS|SUS MANOS (DE ELLOS)_THEIR HANDS|MI ARCO_MY BOW|TU ARCO_YOUR (SING.) BOW|SU ARCO - DE ÉL_HIS BOW|NUESTRO ARCO_OUR BOW|SU ARCO - DE ELLOS_THEIR BOW|GRANDE_BIG|PEQUEÑO_SMALL|FRÍO_COLD|CALIENTE_HOT|BUENO_GOOD|MALO_BAD|BLANCO_WHITE|NEGRO_BLACK|VAYA, VE_GO|VEN_COME|COME_EAT|BEBE_DRINK|DUERME_SLEEP|CORONA_CROWN OF HEAD|DIENTES DELANTEROS INCISIVOS_FRONT TEETH, INEISORS|PELO LARGO_LONG HAIR|LA GARGANTA Y CUELLO_THE NECK REGION|NUEZ DE LA GARGANTA_ADAM’S APPLE|ESPALDA, PARTE SUPERIOR_UPPER BACK|MUÑECA_WRIST|LA PIERNA INFERIOR_LOWER LEG|EL PELO DEL CUERPO_BODY HAIR|ESTÓMAGO_STOMACH|INTESTĨNOS, TRIPAS_INTESTINES|VIEJITA_OLD WOMAN|NUBES QUIETAS_CLOUDS AT REST|SEMENTERA DE MAÍZ_CORN FIELD|QUEBRADA, CAÑO_STREAM|PIEDRECILLAS_PEBBLES|ROCAS GRANDES_HUGE ROCKS|TROCHA_PATH|RANCHO_SHELTER|ESTE_THIS|AQUEL_THAT|QUIÉN_WHO|QUÉ_WHAT|NO_NOT|TODOS_ALL|MUCHO(S)_MANY|LARGO_LONG|CORTEZA_BARK|CARNE_FLESH|GRASA_GREASE, ANIMAL FAT|HUEVO_EGG|CUERNO_HORN|PLUMA_FEATHER|UÑA, GARRA_FINGERNAIL, CLAW|BARRIGA_BELLY|HÍGADO_LIVER|BEBER_DRINK|COMER_EAT|MORDER_BITE|VER_SEE|OÍR_HEAR|SABER_KNOW|DORMIR_SLEEP|MORIR_DIE|MATAR_KILL|NADAR_SWIM|VOLAR_FLY|ANDAR_WALK|VENIR_COME|ACOSTARSE_LIE DOWN|SENTARSE, SENTADO_SIT|PONERSE EN PIE, DE PIE_STAND|DAR_GIVE|DECIR_SAY|ARDER_BURN|MONTAÑA_MOUNTAIN|ROJO_RED|VERDE_GREEN|AMARILLO_YELLOW|LLENO_FULL|NUEVO_NEW|REDONDO_ROUND|SECO_DRY|NOMBRE_NAME|COMO_HOW|CUANDO_WHEN|DONDE_WHERE|AQUÍ_HERE|ALLÍ_THERE|OTRO_OTHER|POCO_FEW|NEBLINA_FOG|FLUIR_FLOW|MAR_SEA|MOJADO_WET|LAVAR_WASH|GUSANO_WORM|ALA_WING|PIEL PELUDA_FUR|OMBLIGO_NAVEL|SALIVA_SALIVA|LECHE_MILK|CON_WITH|EN_IN|EN, LUGAR DEFINIDO_AT|SI_IF|HIELO_ICE|HELARSE_FREEZE|NIÑO_CHILD|OSCURO_DARK|CORTAR_CUT|ANCHO_WIDE|ESTRECHO_NARROW|LEJOS_FAR|CERCA_NEAR|GRUESO_THICK|DELGADO_THIN|CORTO_SHORT|PESADO_HEAVY|EMBOTADO_DULL|AFILADO_SHARP|SUCIO_DIRTY|PODRIDO_ROTTEN|LISO_SMOOTH|RECTO_STRAIGHT|CORRECTO_CORRECT|IZQUIERDO_LEFT|DERECHO_RIGHT|VIEJO_OLD|FROTAR_RUB|JALAR, HALAR_PULL|EMPUJAR_PUSH|BOTAR, TIRAR_THROW|GOLPEAR_HIT|HENDER_SPLIT|PUNZAR_PIERCE|CAVAR_DIG|ATAR_TIE|COSER_SEW|CAER_FALL|HINCHAR_SWELL|PENSAR_THINK|CANTAR_SING|OLER_SMELL|VOMITAR_VOMIT|CHUPAR_SUCK|SOPLAR_BLOW|TEMER_FEAR|APRETAR, EXPRIMIR_TIGHTEN, SQUEEZE|SOSTENER_HOLD|ABAJO_DOWN|ARRIBA_UP|MADURO_RIPE|POLVO_DUST|VIVO_ALIVE|CUERDA_ROPE|BRAZO SUPERIOR_UPPER ARM|MUSLO_THIGH|ISLA_ISLAND|CHIGÜIRO, RONSOCO_CAPYBARA|OSO HORMIGUERO_ANTEATER|CAIMÁN_CAYMAN|IGUANA_IGUANA|GUACAMAYO_MACAW|COMEJÉN, HORMIGA BLANCA_TERMITE|HARINA DE YUCA_MANIOC FLOUR|MONO AULLADOR_HOWLER MONKEY|MARIMONDA, MAQUISAPA_SPIDER MONKEY|TORTUGA, MOTELO_RIVER TURTLE|JABALÍ MAYOR_WHITE-LIPPED PECCARY|CASCABEL_RATTLESNAKE|CORAL_CORAL SNAKE|PERICO, PIHUICHO_PARAKEET|CARIBE_PIRANHA|SAVIA_SAP|COCA_COCA|CHONTA_CHONTA PALM|VUESTRAS MANOS_YOUR (PLUR.) HANDS|SU ARCO DE USTEDES_YOUR (PLUR.) BOW|ANTEBRAZO_LOWER ARM|NIEVE_SNOW|PUNTA DE LA LENGUA_TIP OF TONGUE|NUBES DE TORMENTA_STORM CLOUDS
+#@display=filedisplay|cognates|templates
+#@missing_marker=Ø
+#@separator=	
+#@gap_marker=-
+#@formatter=COGID
+#@root_formatter=false
+#@note_formatter=undefined
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=huber1992_complete_26-04
+#@navbar=true
+#@_morphology_mode=full
