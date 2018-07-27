@@ -19,11 +19,11 @@ Available online at https://github.com/lexibank/chaconcolombian/
 ![CLTS SoundClass: 79%](https://img.shields.io/badge/CLTS%20SoundClass-79%25-yellow.svg "CLTS SoundClass: 79%")
 
 - **Varieties:** 69
-- **Concepts:** 129
-- **Lexemes:** 9,100
+- **Concepts:** 128
+- **Lexemes:** 9,030
 - **Synonymy:** 1.14
-- **Cognacy:** 7,808 cognates in 1,314 cognate sets
+- **Cognacy:** 7,736 cognates in 1,306 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 45,855
+- **Tokens:** 45,528
 - **Segments:** 164 (34 BIPA errors, 34 CTLS sound class errors, 131 CLTS modified)
-- **Inventory size (avg):** 31.58
+- **Inventory size (avg):** 31.55

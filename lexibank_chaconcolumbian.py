@@ -24,7 +24,7 @@ class Dataset(BaseDataset):
 
     def cmd_install(self, **kw):
         # column "counterpart_doculect" gives us the proper names of the doculects
-        wl = lingpy.Wordlist(self.raw.posix('huber1992_complete_26-04'))
+        wl = lingpy.Wordlist(self.raw.posix('Huber_filtered_130_basic_cult_voc'))
 
 
         with self.cldf as ds:
